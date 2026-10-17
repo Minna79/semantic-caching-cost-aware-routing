@@ -1,0 +1,294 @@
+Qanat
+
+A qanāt (Persian: قَنَات) or kārīz (کَارِیز) is a water supply system that was developed in ancient Iran for the purpose of transporting usable water to the surface from an aquifer or a well through an underground aqueduct. Originating approximately 3,000 years ago, its function is essentially the same in systems across Asia and North Africa, but it is known by a variety of regional names beyond modern Iran, including: kārēz in Afghanistan and Pakistan; foggāra in Algeria; khettāra in the Atlas Mountains; the daoudi-type falaj in Oman and the United Arab Emirates; and ʿuyūn in Saudi Arabia. In addition to those in Iran, the largest extant and functional qanats are located in Afghanistan, Xinjiang in China (the Turpan water system), Oman, and Pakistan. Qanat-style systems were also introduced to parts of Europe under the Roman Empire and were later implemented on a larger scale in Muslim-ruled Spain. This laid the foundation for their introduction to parts of the Americas, although some archaeologists have asserted that similar systems may have already been developed and in use in the pre-Columbian era.
+Proving crucial to water supply in areas with hot and dry climates, a qanat enables water to be transported over long distances by largely eliminating the risk of much of it evaporating on the journey. The system also has the advantage of being fairly resistant to natural disasters, such as floods and earthquakes; and to man-made disasters, such as wartime destruction and water supply terrorism. Furthermore, it is almost insensitive to varying levels of precipitation, delivering a flow with only gradual variations from wet to dry years.
+The typical design of a qanat is a gently sloping tunnel accessed by a  series of well-like vertical shafts visible at ground level. This taps into groundwater and delivers it to the surface at a lower level some distance away, via gravity, therefore eliminating the need for pumping. The vertical shafts along the underground channel are for maintenance purposes, and water is typically used only once it emerges from the daylight point.
+To date, the qanat system still ensures a reliable supply of water for consumption and irrigation across human settlements in hot, arid, and semi-arid climates, but its value to a population is directly related to the quality, volume, and regularity of the groundwater in the inhabited region. Since their adoption outside of the Iranian mainland in antiquity, qanats have come to be heavily relied upon by several populations for sustenance. Likewise, many of the continuously inhabited settlements in West Asia and North Africa are notably established in areas where conditions have historically been favourable for creating and sustaining a qanat system.
+
+
+== Etymology ==
+The origin is in Akkadian, in the word qanû(m) which means 'reed', designating the reed-beds that grew in the marshes of southern Mesopotamia, and from which the Hebrew term qāne: 'wild reed plant; tubular rod, stick' is inherited. Qanāh (قناة) is an Arabic word that means 'spear' or 'channel'. In Persian, two words are used: kārīz or kārēz (كاريز), which is derived from the earlier word kāhrēz (كاهریز); and qanāt (قنات). Other names for qanat include kahan (Persian: کهن);  kahn (Balochi); kahriz/kəhriz (Azerbaijan); khettara (Morocco); galerías, minas or viajes de agua (Spain); daoudi-type falaj (Arabic: فلج) (United Arab Emirates and Oman); foggara/fughara (North Africa). Alternative terms for qanats in Asia and North Africa are kakuriz, chin-avulz, and mayun.
+The Oxford English Dictionary gives the origin as "Persian, from Arabic qanät 'reed, pipe, channel". Common variants of qanat in English include kanat, khanat, kunut, kona, konait, ghanat, ghundat and quanat. 
+
+
+== Origins ==
+
+According to most sources, qanat technology was developed by the ancient Iranians sometime in the early 1st millennium BCE and slowly spread westward and eastward from there. Other sources suggest a Southeast Arabian origin. Analogous systems appear to have been developed independently in China and in South America (specifically, southern Peru).
+A cotton species, Gossypium arboreum, is indigenous to South Asia and has been cultivated on the Indian subcontinent for a long time. Cotton appears in the Inquiry into Plants by Theophrastus and is mentioned in the Laws of Manu. As transregional trade networks expanded and intensified, cotton spread from its homeland to Southwest Asia. One theory is that the qanat was developed to irrigate cotton fields, first in what is now Iran, where it doubled the amount of available water for irrigation and urban use. Because of this, Persia enjoyed larger surpluses of agricultural products, thus increasing urbanization and social stratification. The qanat technology subsequently spread from Persia westward and eastward.
+In the arid coastal desert of Peru, a technology of water supply similar to that of the qanats, called puquios, was developed. Most archaeologists believe that the puquios are indigenous and date to about 500 CE, but a few believe they are of Spanish origin, brought to the Americas in the 16th century. Puquios were still in use in the Nazca region in the 21st century.
+
+
+== Features ==
+
+In arid and semi-arid regions, owing to high evaporation, transportation routes were in the form of qanats, which led groundwater to consumption areas along underground tunnels. In the long run, the qanat system is not only economical but also sustainable for irrigation and agricultural purposes.... The ground water flow was known to depend on grain size of sediments, and, therefore, the tunnels in qanats are filled in with coarser material than the surrounding host geological formations. The qanats are constructed mainly along the valleys where Quaternary sediments are deposited.
+Qanats are constructed as a series of well-like vertical shafts, connected by a gently sloping tunnel which carries a water canal. Qanats efficiently deliver large amounts of subterranean water to the surface without need for pumping. The water drains by gravity, typically from an upland aquifer, with the destination lower than the source. Qanats allow water to be transported over long distances in hot dry climates without much water loss to evaporation.
+It is very common for a qanat to start below the foothills of mountains, where the water table is closest to the surface. From this source, the qanat tunnel slopes gently downward, slowly converging with the steeper slope of the land surface above, and the water finally flows out above ground where the two levels meet. To connect a populated or agricultural area with an aquifer, qanats must often extend for long distances.
+Qanats are sometimes split into an underground distribution network of smaller canals called kariz. Like qanats, these smaller canals are below ground to avoid contamination and evaporation. In some cases water from a qanat is stored in a reservoir, typically with night flow stored for daytime use. An ab anbar is an example of a traditional Persian qanat-fed reservoir for drinking water.
+The qanat system has the advantage of being resistant to natural disasters such as floods, and to deliberate destruction in war. Furthermore, it is almost insensitive to the levels of precipitation, delivering a flow with only gradual variations from wet to dry years. From a sustainability perspective, qanats are powered only by gravity and thus have low operation and maintenance costs. Qanats transfer fresh water from the mountain plateau to the lower-lying plains with saltier soil. This helps to control soil salinity and prevent desertification.
+The qanat should not be confused with the spring-flow tunnel typical to the mountainous area around Jerusalem. Although both are excavated tunnels designed to extract water by gravity flow, there are crucial differences. Firstly, the origin of the qanat was a well that was turned into an artificial spring. In contrast, the origin of the spring-flow tunnel was the development of a natural spring to renew or increase flow following a recession of the water table. Secondly, the shafts essential for the construction of qanats are not essential to spring-flow tunnels.
+
+
+== Impact on settlement patterns ==
+A typical town or city in Iran, and elsewhere where the qanat is used, has more than one qanat. Fields and gardens are located both over the qanats a short distance before they emerge from the ground and below the surface outlet. Water from the qanats define both the social regions in the city and the layout of the city.
+The water is freshest, cleanest, and coolest in the upper reaches, and more prosperous people live at the outlet or immediately upstream of the outlet. When the qanat is still below ground, the water is drawn to the surface via wells or animal driven Persian wells. Private subterranean reservoirs could supply houses and buildings for domestic use and garden irrigation as well. Air flow from the qanat is used to cool an underground summer room (shabestan) found in many older houses and buildings.
+Downstream of the outlet, the water runs through surface canals called jubs (jūbs) which run downhill, with lateral branches to carry water to the neighborhood, gardens and fields. The streets normally parallel the jubs and their lateral branches. As a result, the cities and towns are oriented consistent with the gradient of the land; this is a practical response to efficient water distribution over varying terrain.
+The lower reaches of the canals are less desirable for both residences and agriculture. The water grows progressively more polluted as it passes downstream. In dry years the lower reaches are the most likely to see substantial reductions in flow.
+
+
+== Construction ==
+Traditionally qanats are built by a group of skilled laborers, muqannīs, with hand labor. The profession historically paid well and was typically handed down from father to son.
+
+
+=== Preparations ===
+
+The critical, initial step in qanat construction is identification of an appropriate water source. The search begins at the point where the alluvial fan meets the mountains or foothills; water is more abundant in the mountains because of orographic lifting, and excavation in the alluvial fan is relatively easy. The muqannīs follow the track of the main water courses coming from the mountains or foothills to identify evidence of subsurface water such as deep-rooted vegetation or seasonal seeps. A trial well is then dug to determine the depth of the water table and determine whether a sufficient flow is available to justify construction. If these prerequisites are met, the route is laid out aboveground.
+Equipment must be assembled. The equipment is straightforward: containers (usually leather bags), ropes, reels to raise the container to the surface at the shaft head, hatchets and shovels for excavation, lights, and spirit levels or plumb bobs and string. Depending upon the soil type, qanat liners (usually fired clay hoops) may also be required.
+Although the construction methods are simple, the construction of a qanat requires a detailed understanding of subterranean geology and a degree of engineering sophistication. The gradient of the qanat must be carefully controlled: too shallow a gradient yields no flow and too steep a gradient will result in excessive erosion, collapsing the qanat. And misreading the soil conditions leads to collapses, which at best require extensive rework and at worst are fatal for the crew.
+
+
+=== Excavation ===
+Construction of a qanat is usually performed by a crew of 3–4 muqannīs. For a shallow qanat, one worker typically digs the horizontal shaft, one raises the excavated earth from the shaft and one distributes the excavated earth at the top.
+The crew typically begins from the destination to which the water will be delivered into the soil and works toward the source (the test well). Vertical shafts are excavated along the route, separated at a distance of 20–35 m (66–115 ft). The separation of the shafts is a balance between the amount of work required to excavate them and the amount of effort required to excavate the space between them, as well as the ultimate maintenance effort. In general, the shallower the qanat, the closer the vertical shafts. If the qanat is long, excavation may begin from both ends at once. Tributary channels are sometimes also constructed to supplement the water flow.
+Most qanats in Iran run less than 5 km (3.1 miles), while some have been measured at ≈70 km (43 miles) in length near Kerman. The vertical shafts usually range from 20 to 200 m (66 to 656 ft) in depth, although qanats in the province of Khorasan have been recorded with vertical shafts of up to 275 m (902 ft). The vertical shafts support construction and maintenance of the underground channel as well as air interchange. Deep shafts require intermediate platforms to facilitate the process of removing soil.
+The construction speed depends on the depth and nature of the ground. If the earth is soft and easy to work, at 20 m (66 ft) depth a crew of four workers can excavate a horizontal length of 40 m (130 ft) per day. When the vertical shaft reaches 40 m (130 ft), they can excavate only 20 meters horizontally per day and at 60 m (200 ft) in depth this drops below 5 horizontal meters per day. In Algeria, a common speed is just 2 m (6.6 ft) per day at a depth of 15 m (49 ft). Deep, long qanats (which many are) require years and even decades to construct.
+The excavated material is usually transported by means of leather bags up the vertical shafts. It is mounded around the vertical shaft exit, providing a barrier that prevents windblown or rain driven debris from entering the shafts. These mounds may be covered to provide further protection to the qanat. From the air, these shafts look like a string of bomb craters.
+The qanat's water-carrying channel must have a sufficient downward slope that water flows easily. However the downward gradient must not be so great as to create conditions under which the water transitions between supercritical and subcritical flow. If this occurs, the waves that result can result in severe erosion that can damage or destroy the qanat. The choice of the slope is a trade off between erosion and sedimentation. Highly sloped tunnels are subject to more erosion as water flows at a higher speed. On the other hand, less sloped tunnels need frequent maintenance due to the problem of sedimentation. A lower downward gradient also contributes to reducing the solid contents and contamination in water. In shorter qanats the downward gradient varies between 1:1000 and 1:1500, while in longer qanats it may be almost horizontal. Such precision is routinely obtained with a spirit level and string.
+In cases where the gradient is steeper, underground waterfalls may be constructed with appropriate design features (usually linings) to absorb the energy with minimal erosion. In some cases the water power has been harnessed to drive underground mills. If it is not possible to bring the outlet of the qanat out near the settlement, it is necessary to run a jub or canal overground. This is avoided when possible to limit pollution, warming and water loss due to evaporation.
+
+
+=== Maintenance ===
+The vertical shafts may be covered to minimize blown-in sand. The channels of qanats must be periodically inspected for erosion or cave-ins, cleaned of sand and mud and otherwise repaired. For safety, air flow must be assured before entry.
+Some damaged qanats have been restored. To be sustainable, restoration needs to take into account many nontechnical factors beginning with the process of selecting the qanat to be restored. In Syria, three sites were chosen based on a national inventory conducted in 2001. One of them, the Drasiah qanat of Dmeir, was completed in 2002. Selection criteria included the availability of a steady groundwater flow, social cohesion and willingness to contribute of the community using the qanat, and the existence of a functioning water-rights system.
+
+
+== Applications ==
+The primary applications of qanats are for irrigation, providing cattle with water, and drinking water supply. Other applications include watermills, cooling and ice storage.
+
+
+=== Watermills ===
+
+Watermills within a qanat system had to be carefully situated, to make best use of the slow flow of water. In Iran, there were underground mills at Yazd and Boshruyeh; at Taft and Ardestan mills were placed at the outflow from the qanat, before irrigation of the fields.
+
+
+=== Cooling ===
+
+Qanats used in conjunction with a wind tower can provide cooling as well as a water supply. A wind tower is a chimney-like structure positioned above the house; of its four openings, the one opposite the wind direction is opened to move air out of the house. Incoming air is pulled from a qanat below the house. The air flow across the vertical shaft opening creates a lower pressure (see Bernoulli effect) and draws cool air up from the qanat tunnel, mixing with it.
+The air from the qanat is drawn into the tunnel at some distance away and is cooled both by contact with the cool tunnel walls/water and by the transfer of latent heat of evaporation as water evaporates into the air stream. In dry desert climates this can result in a greater than 15 °C reduction in the air temperature coming from the qanat; the mixed air still feels dry, so the basement is cool and only comfortably moist (not damp). Wind tower and qanat cooling have been used in desert climates for over 1,000 years.
+
+
+=== Ice storage ===
+
+By 400 BCE, Persian engineers had mastered the technique of storing ice in the middle of summer in the desert.
+The ice could be brought in during the winters from nearby mountains, but in a more usual and sophisticated method they built a wall in the east–west direction near a yakhchal (ice pit). In winter, the qanat water would be channeled to the north side of the wall, whose shade made the water freeze more quickly, increasing the ice formed per winter day. Then the ice was stored in yakhchals—specially designed, naturally cooled refrigerators.
+A large underground space with thick insulated walls was connected to a qanat, and a system of windcatchers or wind towers was used to draw cool subterranean air up from the qanat to maintain temperatures inside the space at low levels, even during hot summer days. As a result, the ice melted slowly and was available year-round.
+
+
+== By country ==
+
+
+=== Africa ===
+
+
+==== Algeria ====
+
+Qanats (designated foggaras in Algeria) are the source of water for irrigation in large oases like Gourara. The foggaras are also found at Touat (an area of Adrar 200 km from Gourara). The length of the foggaras in this region is estimated to be thousands of kilometers. Although sources suggest that the foggaras may have been in use as early as 200 CE, they were clearly in use by the 11th century after the Arabs took possession of the oases in the 10th century and the residents embraced Islam. The water is metered to the various users through the use of distribution weirs that meter flow to the various canals, each for a separate user.
+The humidity of the oases is also used to supplement the water supply to the foggara. The temperature gradient in the vertical shafts causes air to rise by natural convection, causing a draft to enter the foggara. The moist air of the agricultural area is drawn into the foggara in the opposite direction to the water run-off. In the foggara it condenses on the tunnel walls and the air passes out of the vertical shafts. This condensed moisture is available for reuse.
+
+
+==== Egypt ====
+Qanat irrigation technology was introduced to Egypt by the Achaemenid king Darius I during his reign of 522–486 BCE, which is supported by the historian Albert T. Olmstead. There are four main oases in the Egyptian desert. The Kharga Oasis is one that has been extensively studied. There is evidence that as early as the second half of the 5th century BCE water brought in qanats was being used. The qanats were excavated through water-bearing sandstone rock, which seeps into the channel, with water collected in a basin behind a small dam at the end. The width is approximately 60 cm (24 in), but the height ranges from 5 to 9 m (16 to 30 ft); it is likely that the qanat was deepened to enhance seepage when the water table dropped (as is also seen in Iran). From there the water was used to irrigate fields.
+There is another instructive structure located at the Kharga Oasis. A well that apparently dried up was improved by driving a side shaft through the easily penetrated sandstone (presumably in the direction of greatest water seepage) into the hill of Ayn-Manâwîr (also written Ayn-Manawir to allow collection of additional water. After this side shaft had been extended, another vertical shaft was driven to intersect the side shaft. Side chambers were built, and holes bored into the rock—presumably at points where water seeped from the rocks—are evident.
+
+
+==== Libya ====
+
+David Mattingly reports foggara extending for hundreds of miles in the Garamantes area near Germa in Libya: "The channels were generally very narrow – less than 2 feet wide and 5 high – but some were several miles long, and in total some 600 foggara extended for hundreds of miles underground. The channels were dug out and maintained using a series of regularly spaced vertical shafts, one every 30 feet or so, 100,000 in total, averaging 30 feet in depth, but sometimes reaching 130."
+
+
+==== Morocco ====
+
+In southern Morocco, the qanat (locally khettara) is also used. On the margins of the Sahara Desert, the isolated oases of the Draa River valley and Tafilalt have relied on qanat water for irrigation since the late 14th century. In Marrakech and the Haouz plain, the qanats have been abandoned since the early 1970s, having dried up. In the Tafilaft area, half of the 400 khettaras are still in use. The 1971 Hassan Adahkil Dam's build in the main course of the Ziz River and its subsequent impact on local water tables is said to be one of the many reasons for the loss of half of the khettara.
+The black berbers (haratin) of the south were the hereditary class of qanat diggers in Morocco who build and repair these systems. Their work was hazardous.
+
+
+==== Tunisia ====
+
+The foggara water management system in Tunisia, used to create oases, is similar to that of the Iranian qanat. The foggara is dug into the foothills of a fairly steep mountain range such as the eastern ranges of the Atlas Mountains. Rainfall in the mountains enters the aquifer and moves toward the Saharan region to the south. The foggara, 1 to 3 km (0.62 to 1.9 mi) in length, penetrates the aquifer and collects water. Families maintain the foggara and own the land it irrigates over a ten-meter width, with length reckoned by the size of plot that the available water will irrigate.
+
+
+=== Asia ===
+
+
+==== Afghanistan ====
+The qanats are called kariz in Dari (Persian) and Pashto and have been in use since the pre-Islamic period. It is estimated that more than 9,370 karizes were in use in the 20th century. The oldest functional kariz which is more than 300 years old and 8 kilometers long is located in Wardak province and is still providing water to nearly 3,000 people.
+Many of these ancient structures were destroyed during the Soviet–Aghan War and the War in Afghanistan. Maintenance has not always been possible. The cost of labour has become very high, and maintaining the kariz structures is no longer possible. Lack of skilled artisans who have the traditional knowledge also poses difficulties. A number of the large farmers are abandoning their kariz which has been in their families sometimes for centuries, and moving to tube and dug wells backed by diesel pumps. However, the government of Afghanistan was aware of the importance of these structures and all efforts were made to repair, reconstruct and maintain (through the community) the kariz. The Ministry of Rural Rehabilitation and Development along with national and international NGOs made the effort. There were still functional qanat systems in 2009. American forces were reported to have unintentionally destroyed some of the channels during expansion of a military base, creating tensions between them and the local community. Some of these tunnels were used to store supplies, and to move men and equipment underground.
+
+
+==== Armenia ====
+Qanats have been preserved in Armenia in the community of Shvanidzor, in the southern province of Syunik, bordering with Iran. Qanats are named kahrezes in Armenian. There are 5 kahrezes in Shvanidzor. Four of them were constructed before the village was founded. The fifth kahrez was constructed in 2005. Potable water runs through three of them, and two are in poor condition. In the summer, especially in July and August, the amount of water reaches its minimum, creating a critical situation in the water supply system. Still, kahrezes are the main source of potable and irrigation water for the community.
+
+
+==== Azerbaijan ====
+The territory of Azerbaijan was home to numerous kahrizes many centuries ago. Archaeological findings suggest that long before the 9th century CE, kahrizes by which the inhabitants brought potable and irrigation water to their settlements were in use in Azerbaijan. Traditionally, kahrizes were built and maintained by a group of masons called 'Kankans' with manual labour. The profession was handed down from father to son.
+It is estimated that until the 20th century, nearly 1,500 kahrizes, of which as many as 400 were in the Nakhichevan Autonomous Republic, existed in Azerbaijan. However, following the introduction of electric and fuel-pumped wells during Soviet times, kahrizes were neglected. Today, it is estimated that 800 are still functioning in Azerbaijan. These operational kahrizes are key to the life of many communities.
+In 1999, upon the request of the communities in Nakhichevan, the International Organization for Migration (IOM) began implementing a pilot programme to rehabilitate the kahrizes. By 2018 IOM rehabilitated more than 163 kahrizes with funds from the United Nations Development Programme, European Commission, Canadian International Development Agency, Swiss Agency for Development and Cooperation and the Bureau of Population, Refugees, and Migration, US State Department, and the self-contribution of the local communities.
+In 2010, IOM began a kahriz rehabilitation project with funds from the Korea International Cooperation Agency. During the First Phase of the action which lasted until January 2013, a total of 20 kahrizes in the mainland of Azerbaijan have been renovated.
+
+
+==== China ====
+
+The oasis of Turpan, in the deserts of Xinjiang in northwestern China, uses water provided by qanat (locally called karez). There are nearly 1,000 karez systems in the area, and the total length of the canals is about 5,000 kilometers.
+Turpan has long been the center of a fertile oasis and an important trade center along the Northern Silk Road, at which time it was adjacent to the kingdoms of Korla and Karashahr to the southwest. The historical record of the karez extends back to the Han dynasty. The Turfan Water Museum is a Protected Area of the People's Republic of China because of the importance of the Turpan karez water system to the history of the area.
+
+
+==== Iran ====
+
+In the middle of the 20th century, an estimated 50,000 qanats were in use in Iran, each commissioned and maintained by local users. Of these, only 37,000 remain in use as of 2015. One of the oldest and largest known qanats is in the Iranian city of Gonabad, and after 2,700 years still provides drinking and agricultural water to nearly 40,000 people. Its main well depth is more than 360 meters (1,180 ft) and its length is 45 kilometers (28 mi). Yazd, Khorasan and Kerman are zones known for their dependence on an extensive system of qanats.
+In 2016, UNESCO inscribed the Persian Qanat as a World Heritage Site, listing the following eleven qanats: Qasebeh Qanat, Qanat of Baladeh, Qanat of Zarch, Hasan Abad-e Moshir Qanat, Ebrāhim Ābād Qanat in Markazi Province, Qanat of Vazvān in Esfahan Province, Mozd Ābād Qanat in Esfahan Province, Qanat of the Moon in Esfahan Province, Qanat of Gowhar-riz in Kerman Province, Jupār – Ghāsem Ābād Qanat in Kerman Province, and Akbar Ābād Qanat in Kerman Province. Since 2002, UNESCO's International Hydrological Programme Intergovernmental Council began investigating the possibility of an international qanat research center to be located in Yazd, Iran.
+The Qanats of Gonabad, also called kariz Kai Khosrow, is one of the oldest and largest qanats in the world built between 700 BCE to 500 BCE. It is located at Gonabad, Razavi Khorasan Province. This property contains 427 water wells with total length of 33,113 m (20.575 miles).
+
+According to Callisthenes, the Persians were using water clocks in 328 BCE to ensure a just and exact distribution of water from qanats to their shareholders for agricultural irrigation. The use of water clocks in Iran, especially in Qanats of Gonabad and kariz Zibad, dates back to 500 BCE. Later they were also used to determine the exact holy days of pre-Islamic religions, such as the Nowruz, Chelah, or Yaldā – the shortest, longest, and equal-length days and nights of the years.
+The water clock, or Fenjaan, was the most accurate and commonly used timekeeping device for calculating the amount or the time that a farmer must take water from the Qanats of Gonabad until it was replaced by more accurate current clocks.
+Many of the Iranian qanats bear some characteristics which allow us to call them feat of engineering, considering the intricate techniques used in their construction. The eastern and central regions of Iran hold the most qanats due to low precipitation and lack of permanent surface streams, whereas a small number of qanats can be found in the northern and western parts which receive more rainfall and enjoy some permanent rivers. Respectively the provinces Khorasan Razavi, Southern Khorasan, Isfahan, and Yazd accommodate the most qanats, but from the viewpoint of water discharge the provinces Isfahan, Khorasan Razavi, Fars and Kerman are ranked first to fourth.
+Henri Golbot explored the genesis of the qanat in his 1979 publication, Les Qanats. Une technique d'acquisition de l'eau (The Qanats. A Technique for Obtaining Water), He argues that the ancient Iranians made use of the water that the miners wished to get rid of it, and founded a basic system named qanat or kariz to supply the required water to their farm lands. According to Golbot, this innovation took place in the northwest of the present Iran somewhere bordering Turkey and later was introduced to the neighboring Zagros Mountains.
+According to an inscription left by Sargon II, the king of Assyria, in 714 BCE he invaded the city of Uhlu (Ulhu in Urartu) lying in the northwest of Lake Urmia that lay in the territory of the Urartu kingdom, and then he noticed that the occupied area enjoyed a very rich vegetation even though there was no river running across it. So he managed to discover the reason why the area could stay green and realized that there were some qanats behind the matter. In fact it was Ursa, the king of the region, who had rescued the people from thirst and turned Uhlu into a prosperous and green land. Golbot believes that the influence of the Medeans and Achaemenids made the technology of qanat spread from Urartu, in the western north of Iran and near the present border between Iran and Turkey, to all over the Iranian plateau.
+It was an Achaemenid ruling that in case someone succeeded in constructing a qanat and bringing groundwater to the surface in order to cultivate land, or in renovating an abandoned qanat, the tax he was supposed to pay the government would be waived not only for him but also for his successors for up to 5 generations. During this period, the technology of qanat was in its heyday and it even spread to other countries. For example, following Darius's order, Silaks the naval commander of the Persian army and Khenombiz the royal architect managed to construct a qanat in the Kharga Oasis in Egypt.
+Beadnell believes that qanat construction dates back to two distinct periods: they were first constructed by the Persians, and later the Romans dug some other qanats during their reign in Egypt from 30 BCE to 395 CE. The magnificent temple built in this area during Darius's reign shows that there was a considerable population depending on the water of qanats. Ragerz has estimated this population to be 10,000 people. The most reliable document confirming the existence of qanats at this time was written by Polybius who states that: "the streams are running down from everywhere at the base of Alborz mountain, and people have transferred too much water from a long distance through some subterranean canals by spending much cost and labor."
+During the Seleucid era, which began after the occupation of Iran by Alexander the Great, it seems that the qanats were abandoned. In terms of the situation of qanats during this era, some historical records have been found. In a study by Russian orientalist scholars it has been mentioned that: the Persians used the side branches of rivers, mountain springs, wells and qanats to supply water. The subterranean galleries excavated to obtain groundwater were named as qanat. These galleries were linked to the surface through some vertical shafts which were sunk in order to get access to the gallery to repair it if necessary.
+According to the historical records, the Parthian kings did not care about the qanats the way the Achaemenid kings and even Sassanid kings did. As an instance, Arsac III, one of the Parthian kings, destroyed some qanats in order to make it difficult for the Seleucid king Antiochus to advance further while fighting him. The historical records from this time indicate a perfect regulation on both water distribution and farmlands. All the water rights were recorded in a special document which was referred to in case of any transaction. The lists of farmlands – whether private or governmental – were kept at the tax department. During this period there were some official rulings on qanats, streams, construction of dam, operation and maintenance of qanats, etc.
+The government proceeded to repair or dredge the qanats that were abandoned or destroyed, and to construct the new qanats if necessary. A document written in the Pahlavi language points out the important role of qanats in developing the cities at that time. In Iran, the advent of Islam, which coincided with the overthrow of the Sassanid dynasty, brought about a profound change in religious, political, social and cultural structures. But the qanats stayed intact because the economic infrastructure including qanats was of great importance to the Arabs. As an instance, Maurice Lombard reports that the Muslim clerics who lived during Abbasid period, such as Abu Yusuf (died 798 CE) stipulated that whoever can bring water to the idle lands in order to cultivate, his tax would be waived and he would be entitled to the lands cultivated. Therefore, this policy did not differ from that of the Achaemenids in not levying any tax on the people who revived abandoned lands.
+The Arabs' supportive policy on qanats was so successful that even Mecca gained a qanat. The Persian historian Hamdallah Mustawfi writes: "Zubaidah bint Ja'far (Harun al-Rashid's wife) constructed a qanat in Mecca. After the time of Harun al-Rashid, during the caliph al-Muqtadir's reign this qanat fell into decay, but he rehabilitated it, and the qanat was rehabilitated again after it collapsed during the reign of two other caliphs named Al-Qa'im and al-Nasir. After the era of the caliphs this qanat completely fell into ruin because the desert sand filled it up, but later Amir Chupan repaired the qanat and made it flow again in Mecca."
+There are also other historical texts proving that the Abbasids were concerned about qanats. For example, according to the "Incidents of Abdallah ibn Tahir's Time" written by Gardizi, in 830 CE a terrible earthquake struck the town of Forghaneh and reduced many homes to rubble. The inhabitants of Nishapur used to come to Abdallah ibn Tahir in order to request him to intervene, for they fought over their qanats and found the relevant instruction or law on qanat as a solution neither in the prophet's quotations nor in the clerics' writings. So Abdallah ibn Tahir managed to bring together all the clergymen from throughout Khorasan and Iraq to compile a book entitled Alghani (The Book of Qanat). This book collected all the rulings on qanats which could be of use to whoever wanted to judge a dispute over this issue. Gardizi added that this book was still applicable to his time, and everyone made references to this book. One can deduce from these facts that during the above-mentioned period the number of qanats was so considerable that the authorities were prompted to put together some legal instructions concerning them. Also it shows that from the 9th to 11th centuries the qanats that were the hub of the agricultural systems were also of interest to the government.
+Apart from "The Book of Alghani", which is considered as a law booklet focusing on qanat-related rulings based on Islamic principles, there is another book about groundwater written by Al-Karaji in 1010. This book, entitled Extraction of Hidden Waters, examines just the technical issues associated with the qanat and tries to answer the common questions such as how to construct and repair a qanat, how to find a groundwater supply, how to do leveling, etc.. Some of the innovations described in this book were introduced for the first time in the history of hydrogeology, and some of its technical methods are still valid and can be applied in qanat construction. The content of the book implies that its writer (Karaji) did not have any idea that there was another book on qanats compiled by the clergymen.
+There are some records dating back to that time, signifying their concern about the legal vicinity of qanats. For example, Muhammad al-Shaybani quotes Abu Hanifa that in case someone constructs a qanat in abandoned land, someone else can dig another qanat in the same land on the condition that the second qanat is 500 zera' (375 meters) away from the first one.
+Ann Lambton quotes Muʿīn al-Dīn Zamchī Isfizārī who wrote the book Rowzat al-Jannat (the garden of paradise) that Abdallah bin Tahir (from the Taherian dynasty) and Ismail Samani (from the Samanid dynasty) had several qanats constructed in Nishapur (or "Neyshaboor"). Later, in the 11th century, a writer named Nasir Khosrow acknowledged all those qanats with the following words: "Neyshaboor is located in a vast plain at a distance of 40 Farsang (≈240 km) from Serakhs and 70 Farsang (~420 km) from Mary (Marv) ... all the qanats of this city run underground, and it is said that an Arab who was offended by the people of Neyshaboor has complained that; what a beautiful city Neyshaboor could have become if its qanats would have flowed on the ground surface and instead its people would have been underground." These documents all certify the importance of qanats during the Islamic history within the cultural territories of Iran.
+In the 13th century, the invasion of Iran by Mongolian tribes reduced many qanats and irrigation systems to ruin, and many qanats were deserted and dried up. Later, in the era of the Ilkhanid dynasty especially at the time of Ghazan Khan and his Persian minister Rashid al-Din Hamadani, some measures were taken to revive the qanats and irrigation systems. There is a 14th-century book entitled Al-Vaghfiya Al-Rashidiya (Rashid's Deeds of Endowment) that names all the properties located in Yazd, Shiraz, Maraghe, Tabriz, Isfahan and Mosul that Rashid al-Din Hamadani donated to the public or religious places. This book mentions many qanats running at that time and irrigating a considerable area of farmland.
+At the same time, another book, entitled Jame' al-Kheyrat, was written by Sayyid Rukn al-Dīn, on the same subject as Rashid's book. In this book, Sayyid Rukn al-Dīn names the properties he donated in the region of Yazd. These deeds of endowment indicate that much attention was given to the qanats during the reign of Ilkhanids, but it is attributable to their Persian ministers, who influenced them.
+In 1984–1985 the ministry of energy took a census of 28,038 qanats whose total discharge was 9 billion cubic meters. In the years 1992–1993 the census of 28,054 qanats showed a total discharge of 10 billion cubic meters. 10 years later in 2002–2003 the number of the qanats was reported as 33,691 with a total discharge of 8 billion cubic meters.
+In the restricted regions there are 317,225 wells, qanats and springs that discharge 36,719 million cubic meters water per year, out of which 3,409 million cubic meters is surplus to the aquifer capacity. In 2005, in the country as a whole, there were 130,008 deep wells with a discharge of 31,403 million cubic meters, 33,8041 semi deep wells with a discharge of 13,491 million cubic meters, 34,355 qanats with a discharge of 8,212 million cubic meters, and 55,912 natural springs with a discharge of 21,240 million cubic meters.
+In 2021, a British-trained architect Margot Krasojević designed a luxury eco hotel based on principles of qanat and windcatchers in a desert in Iran, called Qanat. The project has not yet been built but offers ideas for applying ancient technology to modern-day cooling problems in the desert.
+
+
+==== Iraq ====
+A survey of qanat systems in the Kurdistan region of Iraq conducted by the Department of Geography at Oklahoma State University (US) on behalf of UNESCO in 2009 found that out of 683 karez systems, some 380 were still active in 2004, but only 116 were active by 2009. Reasons for the decline of qanats include "abandonment and neglect" prior to 2004, "excessive pumping from wells" and, since 2005, drought. Water shortages are said to have forced, since 2005, over 100,000 people who depended for their livelihoods on karez systems to leave their homes.
+The study says that a single karez has the potential to provide enough household water for nearly 9,000 individuals and irrigate over 200 hectares of farmland. UNESCO and the government of Iraq plan to rehabilitate the karez through a Karez Initiative for Community Revitalization launched in 2010. Most of the karez are in Sulaymaniyah Governorate (84%). A large number are also found in Erbil Governorate (13%), especially on the broad plain around and in Erbil city.
+
+
+==== India ====
+In India, karez systems are located at Bidar, Bijapur, Burhanpur "(Kundi Bhandara)", and Aurangabad. The Bidar karez systems were probably the first dug in India. It dates to the Bahmani period. Bidar has three karez systems as per Ghulam Yazdani's documentation. Other than Naubad there are two more karez systems in Bidar, "Shukla Theerth" and "Jamna Mori". The Shukla theerth is the longest karez system in Bidar. The mother well of this karez has been discovered by near Gornalli Kere, a historic embankment. The third system called Jamna mori is more of a distribution system within the old city area with many channels crisscrossing the city lanes. Restoration efforts commenced in 2014, with the desilting and excavation of the Naubad Karez in 2015, uncovering 27 vertical shafts linked to the Karez. The rejuvenation of the system has had a significant impact on the water-deficit city of Bidar. A seventh line of the system was discovered in 2016 during a sewage line excavation.
+Valliyil Govindankutty, assistant professor in geography at Government College, Chittur, was responsible for rediscovery and mapping of the Naubad Karez System in 2012–2013. Later in 2014–2016 team YUVAA joined Govindankutty to help uncover Other two Karez Systems in Bidar. Detailed documentation of the Naubad karez system was done in August 2013 and a report was submitted to District Administration of Bidar that found several new facts. The research has led to the initiation of cleaning the debris and collapsed sections paving the way to its rejuvenation. The cleaning of karez has led to bringing water to higher areas of the plateau, and it has in turn recharged the wells in the vicinity.
+The Bijapur karez system is much more complicated. A survey reveals that it has surface water and groundwater connections. The Bijapur karez is a network of shallow masonry aqueducts, terracotta/ceramic pipes, embankments and reservoirs, tanks etc. All weave together a network to ensure water reaches the old city. The system starts at Torwi and extends as shallow aqueducts and further as pipes; further it becomes deeper from the Sainik school area onward which exists as a tunnel dug through the geology. The system can be clearly traced up to Ibrahim Roja.
+In Aurangabad the karez systems are called nahars. These are shallow aqueducts running through the city. There are 14 aqueducts in Aurangabad. The Nahar-i-Ambari is the oldest and longest. Its again a combination of shallow aqueducts, open channels, pipes, cisterns, etc. The source of water is a surface water body. The karez has been constructed right below the bed of lake. The lake water seeps through the soil into the Karez Gallery.
+In Burhanpur the karez is called "Kundi-Bhandara", sometimes wrongly referred to as"Khuni Bhandara". The system is approx 6 km long starts from the alluvial fans of Satpura hills in the north of the town. Unlike Bidar, Bijapur and Aurgangabad the System airvents are round in shape. Inside the Karez one could see lime depositions on the walls. The Systems ends to carry water further to palaces and public fountains through pipe line.
+
+
+==== Indonesia ====
+It has been suggested that underground temples at Gua Made in Java reached by shafts, in which masks of a green metal were found, originated as a qanat.
+
+
+==== Israel and Palestine ====
+See the Roman-period Biar aqueduct.
+
+
+==== Japan ====
+In Japan there are several dozen qanat-like structures, locally known as 'mambo' or 'manbo', most notably in the Mie and Gifu Prefectures. Whereas some link their origin clearly to the Chinese karez, and therefore to the Iranian source, a Japanese conference in 2008 found insufficient scientific studies to evaluate the origins of the mambo.
+
+
+==== Jordan ====
+Among the qanats built in the Roman Empire, the 94 km (58 miles) long Gadara Aqueduct in northern Jordan was possibly the longest continuous qanat ever built. Partly following the course of an older Hellenistic aqueduct, excavation work arguably started after a visit by emperor Hadrian in 129–130 CE. The Gadara Aqueduct was never totally finished and was put in service only in sections.
+
+
+==== Oman ====
+In Oman there are several systems of Iron Age irrigation systems called falaj, plural aflaj, found in the north of the country.
+There are three types of Falaj:
+
+daoudi (Arabic: داوودية), consisting of a gently sloping underground tunnel accessed by a series of well-like vertical shafts (the one actually relevant here, as part of the qanat-type systems);
+ghaili (Arabic: الغيلية) requiring a dam to collect the water; and
+aini (Arabic: العينية), which collects water from a spring.
+These systems enabled large scale agriculture to flourish in a dryland environment. According to UNESCO, some 3,000 aflaj are still in use in Oman today; they date back to 500 CE, but archaeological findings suggest that irrigation was already practiced in Oman from 2500 BCE onward. Nizwa, the former capital city of Oman, was built around a falaj which is in use to this day. In July 2006, five representative examples of these irrigation systems were inscribed as a World Heritage Site.
+
+
+==== Pakistan ====
+In Pakistan qanat irrigation system is endemic only in Balochistan. The major concentration is in the north and northwest along the Pakistan-Afghanistan border and oasis of Makoran division. The karez system of the Balochistan desert is on the tentative list for future world heritage sites in Pakistan.
+The acute shortage of water resources give water a decisive role in the regional conflicts arose in the course of history of Balochistan. Therefore, in Balochistan, the possession of water resources is more important than ownership of land. Hence afterward a complex system for the collection, channeling and distribution of water was developed in Balochistan. Similarly, the distribution and unbiased flow of water to different stockholders also necessitate the importance of different societal classes in Balochistan in general and particularly in Makoran.
+For instance, sarrishta, literally, head of the chain, is responsible for administration of channel. He normally owns the largest water quota. Under sarrishta, there are several heads of owners issadar who also possessed larger water quotas. The social hierarchy within Baloch society of Makoran depends upon the possession of largest quotas of water. The role of sarrishta in some cases hierarchical and passing from generations within the family and he must have the knowledge of the criteria of unbiased distribution of water among different issadar.
+The sharing of water is based on a complex indigenous system of measurement depends upon time and space particularly to the phases of moon; the hangams. Based on seasonal variations and share of water the hangams are apportioned among various owners over period of seven or fourteen days. However, in some places, instead of hangam, anna used which is based on twelve-hour period for each quota. Therefore, if a person own 16 quotas it means that he is entitled for water for eight days in high seasons and 16 days in winter when water level went down as well as expectation of winter rain (Baharga) in Makran region. The twelve-hour water quota again subdivided into several sub-fractions of local measuring scales such as tas or pad (Dr Gul Hasan Pro VC LUAWMS, 2 day National conference on Kech).
+The Chagai district is in the north west corner of Balochistan, Pakistan, bordering with Afghanistan and Iran. Qanats, locally known as Kahn, are found more broadly in this region. They are spread from Chaghai district all the way up to Zhob district.
+
+
+==== Syria ====
+Qanats were found over much of Syria. The widespread installation of groundwater pumps has lowered the water table and qanat system. Qanats have gone dry and been abandoned across the country.
+
+
+=== Europe ===
+
+
+==== Greece ====
+The Tunnel of Eupalinos on Samos runs for 1 kilometre through a hill to supply water to Pythagorion. It was built on the order of Polycrates around 550 BCE. At either end of the tunnel proper, shallow qanat-like tunnels carried the water from the spring and to the town.
+
+
+==== Italy ====
+The 5,653 m (3.513 miles) long Tunnels of Claudius, intended to partially drain the largest Italian inland water, Fucine Lake, was constructed using the qanat technique. It featured shafts up to 122 m (400 ft) deep. The entire ancient town of Palermo in Sicily was equipped with a huge qanat system built during the Arab period (827–1072). Many of the qanats are now mapped and some can be visited. The famous Scirocco room has an air-conditioning system cooled by the flow of water in a qanat and a "wind tower", a structure able to catch the wind and use it to draw the cooled air up into the room.
+
+
+==== Luxembourg ====
+The Raschpëtzer near Helmsange in southern Luxembourg is a particularly well preserved example of a Roman qanat. It is probably the most extensive system of its kind north of the Alps. To date, some 330 m of the total tunnel length of 600 m have been explored. Thirteen of the 20 to 25 shafts have been investigated. The qanat appears to have provided water for a large Roman villa on the slopes of the Alzette valley. It was built during the Gallo-Roman period, probably around the year 150 and functioned for about 120 years thereafter.
+
+
+==== Spain ====
+
+There are still many examples of galería or qanat systems in Spain, most likely brought to the area by the Moors during their rule of the Iberian Peninsula. Turrillas in Andalusia on the north facing slopes of the Sierra de Alhamilla has evidence of a qanat system. Granada is another site with an extensive qanat system. In Madrid they were called viajes de agua and were used until the construction of the Canal de Isabel II. See Viaje de agua and Viajes de agua en el Madrid histórico in Spanish.
+
+
+=== The Americas ===
+
+Qanats in the Americas, usually referred to as puquios or filtration galleries, can be found in the Nazca Province of Peru and in northern Chile. The origin and dating of the Nazca puquios is disputed, although some archaeologists have asserted that they were constructed by the indigenous people of the Nazca culture beginning about 500 CE.
+The Spanish introduced qanats into Mexico in 1520 CE.
+In the Atacama Desert of northern Chile the shafts of puquios are known as socavones. Socavones are known to exist in Azapa Valley and the oasis of Sibaya, Pica-Matilla, and Puquio de Núñez. In 1918 geologist Juan Brüggen mentioned the existence of 23 socavones in the Pica oasis, yet by 2020, these had been abandoned due to economic and social changes.
+
+
+== Symbolism in Iranian culture ==
+In an August 21, 1906, letter written from Tehran, Florence Khanum, the American wife of Persian diplomat Ali Kuli Khan, described the use of qanats for the garden at the home of her brother-in-law, General Husayn Kalantar,
+January 1, 1913
+
+"The air is the most marvellous I ever was in, in any city. Mountain air, so sweet, dry and "preserving", delicious and life-giving.' She told of running streams, and fresh water bubbling up in the gardens. (This omnipresence of water, which doubtless spread from Persia to Baghdad and from there to Spain during its Muslim days, has given Spanish many a water-word: aljibe, for example, is Persian jub, brook; cano or pipe, is Arabic qanat—reed, canal. Thus J. T. Shipley, Dictionary of Word Origins)." An old tradition in Iran was to hold symbolic wedding ceremonies between widows and qanats in which the widow became the "wife" of the qanat. This was believed to help ensure the continued flow of water.
+
+
+== See also ==
+Aryk – Irrigation canal of central Asia
+Suranga – Traditional water management system in Kerala and Karnataka, south India
+Acequia – Community-operated watercourse
+Aflaj Irrigation Systems of Oman
+History of water supply and sanitation
+Menara Gardens – Public garden in Marrakesh, Morocco
+Traditional water sources of Persian antiquity – Aspect of Iranian history
+Tank cascade system – Ancient irrigation system in Sri Lanka
+Johad – Traditional rainwater-storage wetland in India (Northern India)
+Shushtar Historical Hydraulic System – Irrigation system in Shushtar, IranPages displaying short descriptions of redirect targets (Iran)
+Subak - Irrigation system of Bali
+Puquios – Underground aqueducts in Peru and Chile
+
+
+== References ==
+
+
+== Bibliography ==
+English, Paul Ward (21 June 1968). "The Origin and Spread of Qanats in the Old World". Proceedings of the American Philosophical Society. 112 (3): 170–181. ISBN 978-1-4223-7147-3. JSTOR 986162.{{cite journal}}:  CS1 maint: periodical has ISBN (link)
+Chapter "The distribution and diffusion of qanats", pp. 175–178
+Madani, Kaveh (2008). "Reasons behind Failure of Qanats in the 20th Century". World Environmental and Water Resources Congress 2008: Ahupua'a. American Society of Civil Engineers. pp. 1–8. doi:10.1061/40976(316)77. ISBN 978-0-7844-0976-3. Retrieved 26 September 2025. Abstract freely accessible at the same URL.
+Hadden, Robert Lee (2005). "Adits, Caves, Karizi-Qanats, and Tunnels in Afghanistan: An Annotated Bibliography", United States Army Corps of Engineers, Army Geospatial Center
+Ozden, Dursun Directed & Written by; ANATOLIAN WATER CIVILIZATION & ANATOLIAN KARIZES-QANATS, The Documentary Film & Book, 2004–2011 Istanbul, Turkey. http://www.dursunozden.com.tr
+
+
+== External links ==
+
+WaterHistory.org Article on Karez in Turpan, Xinjiang, China
+World Wildlife Fund editorial on karez in Afghanistan
+Information on qanat by Farzad Kohandel, in Arabic and in English
+Qanat at livius.org
+Information on Qanats (includes photo of access shafts from above) at destinationiran.com
+International Center on Qanats and Historic Hydraulic Structures
+Covington, Richard. "The art and science of water", in Saudi Aramco World May/June 2006 (online version; live link, 2025-09-26)
+Trabia, Carlo: "Kanats of Sicily", in: Best of Sicily Magazine, March 2005, with photo
+Simarski, Lynn Teo (1992). Oman's "Unfailing Springs". Saudi Aramco World
+"Engines of Ingenuity". "Water in the Desert", episode no. 1250. University of Houston, College of Engineering

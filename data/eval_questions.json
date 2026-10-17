@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": "q1",
+    "question": "What is semantic caching?",
+    "expected_answer": "Semantic caching reuses a previous response for a sufficiently similar query.",
+    "category": "definition",
+    "group": "semantic_caching"
+  },
+  {
+    "id": "q2",
+    "question": "Can you explain semantic caching?",
+    "expected_answer": "Semantic caching reuses a previous response for a sufficiently similar query.",
+    "category": "paraphrase",
+    "group": "semantic_caching"
+  },
+  {
+    "id": "q3",
+    "question": "What is the difference between semantic caching and exact-match caching?",
+    "expected_answer": "Exact-match caching requires the same query, while semantic caching can match queries with similar meanings.",
+    "category": "comparison",
+    "group": "cache_comparison"
+  },
+  {
+    "id": "q4",
+    "question": "What is cost-aware model routing?",
+    "expected_answer": "Cost-aware routing selects a model based on factors such as task difficulty, cost, and required quality.",
+    "category": "definition",
+    "group": "model_routing"
+  },
+  {
+    "id": "q5",
+    "question": "How can I reduce the cost of LLM API calls?",
+    "expected_answer": "Costs can be reduced through caching, choosing suitable lower-cost models, and avoiding unnecessary requests.",
+    "category": "general",
+    "group": "cost_reduction"
+  }
+]

@@ -1,0 +1,112 @@
+Svalbard Global Seed Vault
+
+The Svalbard Global Seed Vault (Norwegian: Svalbard globale frøhvelv) is a secure backup facility for the Earth's crop diversity on the Norwegian island of Spitsbergen in the remote Arctic Svalbard archipelago. The Seed Vault provides long-term storage for duplicates of seeds from around the world, conserved in gene banks. The Seed Vault is managed under terms spelled out in a tripartite agreement among the Norwegian government, the Crop Trust, and the Nordic Genetic Resource Center (NordGen).
+The Norwegian government entirely funded the Seed Vault's approximately 45 million kr (US$8.8 million in 2008) construction cost. Norway and the Crop Trust pay for operational costs. Storing seeds in the vault is free to depositors. 
+As of June 2025, the Seed Vault conserves 1,355,591 accessions, representing more than 13,000 years of agricultural history. The vault is of very much cultural significance.
+
+
+== History ==
+In 1984, the Nordic Gene Bank (now NordGen) began storing backup Nordic plant germplasm via frozen seeds in an abandoned coal mine outside of Longyearbyen.
+In 2001, the International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA) was adopted and national governments began to ratify the treaty soon after. The treaty establishes a multilateral system for plant genetic resources that includes providing access to the materials and providing mechanisms so that those who use the resources can share any derived benefits.
+A team led by conservationist Cary Fowler actively campaigned for the development of the Seed Vault and approached the Norwegian Government. Fowler conceptualized the vault, headed the committee that developed the plan for the facility and is the founding chair of the international council that has overseen the vault since its inception. The Norwegian Government gave a contract to the Center for International Environment and Development Studies at the Agricultural University of Norway for Fowler’s role and to the Nordic Gene Bank. Chaired by Fowler, then a professor at the university and a senior advisor in the CGIAR, the committee included Henry Shands (head of the U.S. national gene bank), William George (an engineer), Bent Skovmand (director of the Nordic Gene Bank), and Geoff Hawtin as an observer. The team conducted a feasibility study in 2004 and concurred that Svalbard was an appropriate location for long-term storage.
+Also in 2004, the ITPGRFA entered into force and provided the legal framework for having one international security facility. The FAO Commission on Genetic Resources for Food and Agriculture endorsed the initiative and in October 2004 the Norwegian Government committed to fund the Seed Vault and begin the construction. In 2006, Geoffrey Hawtin was appointed to prepare a report on technical, administrative and political issues.
+The Seed Vault officially opened on 26 February 2008, although the first seeds arrived in January 2008.
+As part of the Seed Vault's first anniversary, more than 90,000 food crop seed samples were placed into storage, bringing the total number of seed samples to 400,000. Among the new seeds included were 32 varieties of potatoes from Ireland's national genebanks and 20,000 new samples from the U.S. Agricultural Research Service. Other seed samples came from genebanks in Canada and Switzerland as well as international genebanks in Colombia, Mexico and Syria. This 4 t (3.9-long-ton; 4.4-short-ton) shipment brought the total number of seeds stored in the Seed Vault to over 200 million. As of this anniversary, the Seed Vault contained samples from approximately one-third of the world's most important food crop varieties. Also as part of the anniversary, experts on food production and climate change met for a three-day conference in Longyearbyen.
+Japanese sculptor Mitsuaki Tanabe presented a work to the Seed Vault named "The Seed 2009 / Momi In-Situ Conservation".
+In 2010, a delegation of seven U.S. senators deposited a number of different varieties of chili pepper.
+By 2013, approximately one-third of the genera diversity stored in genebanks globally was represented at the Seed Vault.
+In 2015, researchers started sending seeds from the Middle East for safeguarding in Svalbard due to ongoing conflicts.
+In October 2016, the Seed Vault experienced an unusually large degree of water intrusion due to higher than average temperatures and heavy rainfall. While it is common for some water to seep into the Seed Vault's 100 m (328 ft) entrance tunnel during the warmer spring months, in this case the water encroached 15 m (49 ft) into the tunnel before freezing. Because the Seed Vault was designed to be able to handle water intrusion, the seeds were not at risk. As a result, however, the Norwegian public works agency Statsbygg completed improvements to the tunnel in 2019 to prevent any such intrusion in the future, including waterproofing the tunnel walls, removing heat sources from the tunnel, and digging exterior drainage ditches.
+For the Seed Vault's 10th anniversary on 26 February 2018, a shipment of 70,000 samples was delivered to the facility, bringing the number of samples received to more than one million (not counting withdrawals).
+According to The Independent the COVID-19 pandemic did not pose a risk to the vault "as there are no permanent staff at the Svalbard facility."
+In 2019, the Seed Vault cost about 2.4 million kr (US$282,000) to maintain.
+
+
+== Construction ==
+
+Norway, Sweden, Finland, Denmark, and Iceland's prime ministers ceremonially laid "the first stone" on 19 June 2006.
+The seed bank is 130 m (430 ft) inside a sandstone mountain on Spitsbergen Island, and employs robust security systems. The facility is managed by the Nordic Genetic Resource Center, though there are no permanent staff on-site.
+Spitsbergen was considered ideal because it lacked tectonic activity and had permafrost, which aids preservation. It being 130 m (430 ft) above sea level will keep the site dry even if the ice caps melt. Locally mined coal provides power for refrigeration units that further cool the seeds to the internationally recommended standard of −18 °C (−0.4 °F). If the equipment fails, at least several weeks will elapse before the facility rises to the surrounding sandstone bedrock's temperature of −3 °C (27 °F), and is estimated to take two centuries to warm to 0 °C (32 °F).
+A feasibility study prior to construction determined that the Seed Vault could preserve most major food crops' seeds for hundreds of years. Some, including those of important grains, could potentially remain viable for thousands of years.
+Running the length of the facility's roof and down the front face to the entryway is an illuminated artwork named Perpetual Repercussion by Norwegian artist Dyveke Sanne that marks the location of the vault from a distance. In Norway, government-funded construction projects exceeding a certain cost must include artwork. KORO, the Norwegian State agency overseeing art in public spaces, engaged the artist to propose an artwork for the Seed Vault. The roof and vault entrance are filled with highly reflective stainless steel, mirrors, and prisms. The installation reflects polar light in the summer months, while in the winter, a network of 200 fibre-optic cables gives the piece a muted greenish-turquoise and white light.
+
+
+== Mission ==
+The Seed Vault's mission is to provide a backup against accidental loss of diversity in traditional genebanks. While the popular press has emphasized its possible utility in the event of a major regional or global catastrophe, the Seed Vault will be more frequently accessed when genebanks lose samples due to mismanagement, accident, equipment failures, funding cuts, and natural disasters. These events occur with some regularity. War and civil strife have a history of destroying some genebanks. The national genebank of the Philippines was damaged by flooding and later destroyed by a fire, the genebanks of Afghanistan and Iraq have been lost completely, while an international genebank in Syria became unavailable. According to The Economist, "the Svalbard vault is a backup for the world's 1,750 seed banks, storehouses of agricultural biodiversity."
+Norwegian law has prohibited the storing of genetically modified seeds at the vault.
+The adjacent Arctic World Archive provides a similar service for data, which is etched as code into reels of film. Project lead Piql of Norway states that the film, when properly preserved, should last for 1,000 years.
+
+
+== Tripartite agreement ==
+The Seed Vault is managed under terms spelled out in a tripartite agreement among the Norwegian Government, the Crop Trust, and the Nordic Genetic Resource Center (NordGen). The Kingdom of Norway owns the Seed Vault. The Crop Trust provides funding for ongoing operations and provides financial assistance to depositors in their preparation of shipments. NordGen operates the Seed Vault and maintains the public database of the deposits.
+An International Advisory Council provides guidance and advice. It includes representatives from the FAO, CGIAR, the International Treaty on Plant Genetic Resources and other institutions.
+
+
+== Access to seeds ==
+
+Vault seed samples are copies of samples stored in the depositing genebanks. Researchers, plant breeders, and other groups wishing to access seed samples cannot do so through the Seed Vault; they must instead request samples from the depositing genebanks. The samples stored in the genebanks will, in most cases, be accessible in accordance with the terms and conditions of the International Treaty on Plant Genetic Resources for Food and Agriculture, approved by 148 countries or parties.
+The Seed Vault functions like a safe deposit box in a bank. The bank owns the building and the depositor owns the contents of their box. The Government of Norway owns the facility and the depositing genebanks own the seeds they send. The deposit of samples in Svalbard does not constitute a legal transfer of genetic resources. In genebank terminology this is called a "black box" arrangement. Each depositor signs a Deposit Agreement with NordGen, acting on behalf of Norway. The Agreement makes clear that Norway does not claim ownership over the deposited samples and that ownership remains with the depositor, who has the sole right of access to those materials in the seed vault. No one has access to anyone else's seeds from the seed vault. The database of samples and depositors is maintained by NordGen.
+The Syrian civil war created a situation where the black box arrangement was demonstrated. As a result of the conflict, the International Center for Agricultural Research in the Dry Areas (ICARDA) was unable to maintain its genebank located at Tel Hadya, Syria and therefore unable to distribute samples. In 2015, ICARDA withdrew some of the backup samples it had stored at the Seed Vault so that it could regenerate those seeds. ICARDA made a second and larger withdrawal in 2017. These seeds were planted in fields in Lebanon and Morocco and multiplied. Some were then returned to the Seed Vault while others were added to ICARDA's genebanks in Lebanon and Morocco so they could be conserved and distributed. These are the only withdrawals from the Seed Vault as of May 2024.
+
+
+== Seed storage ==
+The seeds are stored in sealed three-ply foil packages and then placed into plastic tote containers on metal shelving racks. The storage rooms are kept at −18 °C (−0.4 °F). The low temperature and limited access to oxygen will ensure low metabolic activity and delay seed ageing. The permafrost surrounding the facility will help maintain the low temperature of the seeds if the electricity supply fails.
+Initially the Seed Vault would have some minor water intrusion at its entrance during the annual spring permafrost thawing. Warmer temperatures and heavy rainfall in October 2016 caused significantly greater amounts of water to seep into the entrance, but the facility's design ensured that the water froze after several meters and the seeds were not endangered. Work completed in 2019 eliminated this water seepage.
+Attached to the seed boxes are sheets of nanofilm that hold information on such things as seed identity.
+
+
+== Crop Trust ==
+The Crop Trust, officially known as the Global Crop Diversity Trust, plays a key role in the planning of the Seed Vault and coordinating shipments of seed samples to the Seed Vault in conjunction with the Nordic Genetic Resource Center. The Crop Trust provides most of the annual operating costs for the facility and has set aside an endowment fund to do so, while the Norwegian government finances upkeep of the structure itself. With support of its donors, the Crop Trust assists selected genebanks in developing countries as well as the international agricultural research centres in packaging and shipping seeds to the Seed Vault.
+
+
+== Awards and honors ==
+The Svalbard Global Seed Vault ranked at No. 6 on Time's Best Inventions of 2008. It was awarded the Norwegian Lighting Prize for 2009. It was ranked the 10th most influential project of the past 50 years by the Project Management Institute. In 2026 it received the Princess of Asturias Award for International Cooperation.
+
+
+== Capacity ==
+Seeds are stored in airtight aluminium bags. The number of seeds in each bag varies depending on the size of the seed, but on average each bag contains approximately 500 seeds. The facility has a storage capacity of 4.5 million seed samples.
+The table below presents the cumulative total of samples (i.e. accessions) deposited by year.
+
+
+== Depositors ==
+As of March 2025, 127 depositors safeguard their crop samples in the Seed Vault. The below table lists the top international genebanks followed by the top regional and national genebank in terms of the number of samples currently deposited in the Seed Vault.
+
+
+=== Indigenous communities ===
+Depositors to the Seed Vault are not limited to international, regional and national genebanks. Some indigenous communities have deposited seeds for safety duplication in the Seed Vault. In 2015, representatives of the Parque de la Papa in Peru deposited 750 samples of potatoes. In 2020, the Cherokee Nation became the first US tribe to deposit when it safeguarded nine samples of heirloom food crops which predate European colonization.
+
+
+== Cultural importance ==
+The seed vault is a common reference in different forms of fiction and media, often as an example of international collaboration, similar to the International Space Station, as a media symbol for the potential of doomsday scenarios, and a point of conversation about the sustainability of human society. Even before the Seed Vault officially opened, there was a feature article in The New Yorker.  Science communicators have been important in taking the project from relative obscurity, to global awareness. For example, Cary Fowler gave a TED talk on the Seed Vault at Oxford in 2009. 
+The Seed Vault was the inspiration for Ibsen International's art project "The Seed", supported by the Norwegian government. The children's opera Children of Ginko (Norwegian: Frøbarna) which aimed to raise ecological awareness, "reveal the power of nature and celebrate children's courage in growing up", was created as part of this project. 
+There are several children’s books about the seed vault, including The Garden at the End of the World, and Just in Case: Saving Seeds in the Svalbard Global Seed Vault. The seed vault has  also been the subject of two feature length documentaries: Seeds of Time and Seed Battles, as well as Forever Securing the World Food Supply.
+In 2011, Norway issued a postage stamp to honor the seed vault.
+
+
+== See also ==
+Arctic policy of Norway
+Arctic World Archive
+Center of origin
+Frozen zoo, a similar concept, but for animals
+National Ice Core Laboratory
+Amphibian Ark
+Coral reef organizations
+Rosetta Project
+Indian Seed Vault
+Millennium Seed Bank Partnership
+Orthodox seed
+Recalcitrant seed
+Survivalism
+
+
+== References ==
+
+
+== External links ==
+
+Official website 
+Svalbard Global Seed Vault by the Norwegian Ministry of Agriculture and Food
+Svalbard Global Seed Vault by the Crop Trust
+Svalbard Global Seed Vault by the Nordic Genetic Resource Center (NordGen)
+Online searchable database of deposits at NordGen
+"Inside the Svalbard Seed Vault" on YouTube
