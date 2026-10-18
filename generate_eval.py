@@ -4,10 +4,10 @@ from dotenv import load_dotenv
 import time
 
 load_dotenv()
-GEN_MODEL = "anthropic/claude-sonnet-5.5"   # strong model writes the questions
-DOCS_DIR = Path("docs")
+GEN_MODEL = "xingchen-agi/xing4.0-29b-a4b:free"
 QUESTIONS_PER_DOC = 3
-MAX_CHARS = 6000                            # text sent per document
+MAX_CHARS = 6000        
+DOCS_DIR = Path("docs")# text sent per document
 
 def read_doc(path: Path) -> str:
     ext = path.suffix.lower()
@@ -59,6 +59,7 @@ def ask(prompt: str, retries=5) -> str:
             continue
 
         data = r.json()
+        
         if r.status_code in (402, 429, 500, 502, 503, 504):
             wait = int(r.headers.get("Retry-After", 2 ** attempt * 5))
             wait = min(wait, 150)
