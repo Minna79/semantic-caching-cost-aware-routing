@@ -1,38 +1,1289 @@
-
 [
   {
-    "id": "q1",
-    "question": "What is semantic caching?",
-    "expected_answer": "Semantic caching reuses a previous response for a sufficiently similar query.",
-    "category": "definition",
-    "group": "semantic_caching"
+    "id": "q001",
+    "lang": "en",
+    "doc": "en_00.txt",
+    "difficulty": "simple",
+    "question": "Approximately how old is the qanat water supply system?",
+    "expected_answer": "It originated approximately 3,000 years ago in ancient Iran.",
+    "evidence": [
+      "Originating approximately 3,000 years ago"
+    ]
   },
   {
-    "id": "q2",
-    "question": "Can you explain semantic caching?",
-    "expected_answer": "Semantic caching reuses a previous response for a sufficiently similar query.",
-    "category": "paraphrase",
-    "group": "semantic_caching"
+    "id": "q002",
+    "lang": "en",
+    "doc": "en_00.txt",
+    "difficulty": "simple",
+    "question": "What is a qanat called in Algeria?",
+    "expected_answer": "In Algeria a qanat is called a foggara.",
+    "evidence": [
+      "foggāra in Algeria"
+    ]
   },
   {
-    "id": "q3",
-    "question": "What is the difference between semantic caching and exact-match caching?",
-    "expected_answer": "Exact-match caching requires the same query, while semantic caching can match queries with similar meanings.",
-    "category": "comparison",
-    "group": "cache_comparison"
+    "id": "q003",
+    "lang": "en",
+    "doc": "en_00.txt",
+    "difficulty": "simple",
+    "question": "Which Akkadian word is the qanat's name ultimately derived from, and what does it mean?",
+    "expected_answer": "The Akkadian word qanû(m), which means 'reed'.",
+    "evidence": [
+      "qanû(m) which means 'reed'"
+    ]
   },
   {
-    "id": "q4",
-    "question": "What is cost-aware model routing?",
-    "expected_answer": "Cost-aware routing selects a model based on factors such as task difficulty, cost, and required quality.",
-    "category": "definition",
-    "group": "model_routing"
+    "id": "q004",
+    "lang": "en",
+    "doc": "en_00.txt",
+    "difficulty": "complex",
+    "question": "How does a qanat deliver water over long distances without pumps and without losing much to evaporation?",
+    "expected_answer": "Water flows through a gently sloping underground tunnel and emerges at a lower point by gravity, so no pumping is needed, and being underground largely eliminates evaporation.",
+    "evidence": [
+      "by largely eliminating the risk of much of it evaporating",
+      "via gravity, therefore eliminating the need for pumping"
+    ]
   },
   {
-    "id": "q5",
-    "question": "How can I reduce the cost of LLM API calls?",
-    "expected_answer": "Costs can be reduced through caching, choosing suitable lower-cost models, and avoiding unnecessary requests.",
-    "category": "general",
-    "group": "cost_reduction"
+    "id": "q005",
+    "lang": "en",
+    "doc": "en_00.txt",
+    "difficulty": "complex",
+    "question": "Why are qanats considered reliable in the face of disasters and changing rainfall?",
+    "expected_answer": "They are fairly resistant to natural disasters such as floods and earthquakes and to man-made ones such as wartime destruction, and they are almost insensitive to varying precipitation.",
+    "evidence": [
+      "fairly resistant to natural disasters",
+      "almost insensitive to varying levels of precipitation"
+    ]
+  },
+  {
+    "id": "q006",
+    "lang": "en",
+    "doc": "en_01.txt",
+    "difficulty": "simple",
+    "question": "When was the Antikythera mechanism discovered?",
+    "expected_answer": "It was discovered in 1901, among wreckage retrieved from a shipwreck.",
+    "evidence": [
+      "discovered in 1901"
+    ]
+  },
+  {
+    "id": "q007",
+    "lang": "en",
+    "doc": "en_01.txt",
+    "difficulty": "simple",
+    "question": "How many teeth did the largest gear of the Antikythera mechanism originally have?",
+    "expected_answer": "The largest gear originally had 223 teeth.",
+    "evidence": [
+      "originally had 223 teeth"
+    ]
+  },
+  {
+    "id": "q008",
+    "lang": "en",
+    "doc": "en_01.txt",
+    "difficulty": "simple",
+    "question": "Who led the Cardiff University team that imaged the mechanism in 2005?",
+    "expected_answer": "Mike Edmunds led the team.",
+    "evidence": [
+      "led by Mike Edmunds"
+    ]
+  },
+  {
+    "id": "q009",
+    "lang": "en",
+    "doc": "en_01.txt",
+    "difficulty": "complex",
+    "question": "What did the 2005 X-ray scans reveal about the gears of the Antikythera mechanism and what the device could do?",
+    "expected_answer": "The scans suggested 35 meshing bronze gears, 30 still visible, which let it follow the Moon and Sun through the zodiac, predict eclipses and model the Moon's irregular orbit.",
+    "evidence": [
+      "35 meshing bronze gears",
+      "to predict eclipses and to model the irregular orbit of the Moon"
+    ]
+  },
+  {
+    "id": "q010",
+    "lang": "en",
+    "doc": "en_02.txt",
+    "difficulty": "simple",
+    "question": "What date range did carbon dating give for the Voynich manuscript's vellum?",
+    "expected_answer": "The vellum was carbon-dated to 1404-1438, the early 15th century.",
+    "evidence": [
+      "carbon-dated to the early 15th century (1404–1438)"
+    ]
+  },
+  {
+    "id": "q011",
+    "lang": "en",
+    "doc": "en_02.txt",
+    "difficulty": "simple",
+    "question": "Who bought the Voynich manuscript in 1912?",
+    "expected_answer": "Wilfrid Voynich, a Polish book dealer.",
+    "evidence": [
+      "Wilfrid Voynich, a Polish book dealer who purchased it in 1912"
+    ]
+  },
+  {
+    "id": "q012",
+    "lang": "en",
+    "doc": "en_02.txt",
+    "difficulty": "simple",
+    "question": "Where has the Voynich manuscript been held since 1969?",
+    "expected_answer": "In Yale University's Beinecke Rare Book and Manuscript Library.",
+    "evidence": [
+      "Since 1969, it has been held in Yale University's Beinecke Rare Book and Manuscript Library"
+    ]
+  },
+  {
+    "id": "q013",
+    "lang": "en",
+    "doc": "en_02.txt",
+    "difficulty": "complex",
+    "question": "Why does the Voynich manuscript remain unsolved even though famous codebreakers studied it?",
+    "expected_answer": "Its script is undeciphered, codebreakers such as the Friedmans and John Tiltman were unsuccessful, and none of the proposed hypotheses has been independently verified.",
+    "evidence": [
+      "were unsuccessful",
+      "none of the proposed hypotheses have been independently verified"
+    ]
+  },
+  {
+    "id": "q014",
+    "lang": "en",
+    "doc": "en_03.txt",
+    "difficulty": "simple",
+    "question": "Who first described tardigrades, and in what year?",
+    "expected_answer": "The German zoologist Johann August Ephraim Goeze, in 1773.",
+    "evidence": [
+      "first described by the German zoologist Johann August Ephraim Goeze in 1773"
+    ]
+  },
+  {
+    "id": "q015",
+    "lang": "en",
+    "doc": "en_03.txt",
+    "difficulty": "simple",
+    "question": "What does the name Tardigrada mean?",
+    "expected_answer": "It means 'slow walkers'.",
+    "evidence": [
+      "which means \"slow walkers\""
+    ]
+  },
+  {
+    "id": "q016",
+    "lang": "en",
+    "doc": "en_03.txt",
+    "difficulty": "simple",
+    "question": "How long are tardigrades when fully grown, usually?",
+    "expected_answer": "They are usually about 0.5 mm long.",
+    "evidence": [
+      "usually about 0.5 mm (0.02 in) long"
+    ]
+  },
+  {
+    "id": "q017",
+    "lang": "en",
+    "doc": "en_03.txt",
+    "difficulty": "complex",
+    "question": "How do tardigrades exchange gases given that they have no lungs, gills or blood vessels?",
+    "expected_answer": "They rely on diffusion through the cuticle and body cavity.",
+    "evidence": [
+      "rely on diffusion through the cuticle and body cavity for gas exchange"
+    ]
+  },
+  {
+    "id": "q018",
+    "lang": "en",
+    "doc": "en_04.txt",
+    "difficulty": "simple",
+    "question": "On which island is the Svalbard Global Seed Vault located?",
+    "expected_answer": "On the Norwegian island of Spitsbergen in the Svalbard archipelago.",
+    "evidence": [
+      "Norwegian island of Spitsbergen"
+    ]
+  },
+  {
+    "id": "q019",
+    "lang": "en",
+    "doc": "en_04.txt",
+    "difficulty": "simple",
+    "question": "When did the Svalbard Global Seed Vault officially open?",
+    "expected_answer": "It officially opened on 26 February 2008.",
+    "evidence": [
+      "officially opened on 26 February 2008"
+    ]
+  },
+  {
+    "id": "q020",
+    "lang": "en",
+    "doc": "en_04.txt",
+    "difficulty": "simple",
+    "question": "Who conceptualized the Seed Vault?",
+    "expected_answer": "Conservationist Cary Fowler.",
+    "evidence": [
+      "Fowler conceptualized the vault"
+    ]
+  },
+  {
+    "id": "q021",
+    "lang": "en",
+    "doc": "en_04.txt",
+    "difficulty": "complex",
+    "question": "Who pays for the Seed Vault's construction and running costs, and what does it cost depositors?",
+    "expected_answer": "The Norwegian government funded construction entirely; Norway and the Crop Trust pay operating costs; storing seeds is free to depositors.",
+    "evidence": [
+      "entirely funded the Seed Vault's approximately 45 million kr",
+      "Storing seeds in the vault is free to depositors"
+    ]
+  },
+  {
+    "id": "q022",
+    "lang": "en",
+    "doc": "en_05.txt",
+    "difficulty": "simple",
+    "question": "On what date did the Great Molasses Flood occur?",
+    "expected_answer": "On January 15, 1919.",
+    "evidence": [
+      "January 15, 1919"
+    ]
+  },
+  {
+    "id": "q023",
+    "lang": "en",
+    "doc": "en_05.txt",
+    "difficulty": "simple",
+    "question": "How many people were killed in the Great Molasses Flood?",
+    "expected_answer": "21 people were killed and 150 injured.",
+    "evidence": [
+      "killing 21 and injuring 150 people"
+    ]
+  },
+  {
+    "id": "q024",
+    "lang": "en",
+    "doc": "en_05.txt",
+    "difficulty": "simple",
+    "question": "How tall and wide was the molasses tank?",
+    "expected_answer": "It was 50 feet tall and 90 feet in diameter.",
+    "evidence": [
+      "50 feet (15 meters) tall and 90 ft (27 m) in diameter"
+    ]
+  },
+  {
+    "id": "q025",
+    "lang": "en",
+    "doc": "en_05.txt",
+    "difficulty": "complex",
+    "question": "What may have caused the molasses tank to burst on that particular day?",
+    "expected_answer": "Temperatures rose rapidly above 40 F and a fresh warmed load had been added the day before, so thermal expansion of the older, colder molasses may have burst the tank.",
+    "evidence": [
+      "Possibly due to the thermal expansion of the older, colder molasses already inside the tank"
+    ]
+  },
+  {
+    "id": "q026",
+    "lang": "en",
+    "doc": "en_06.txt",
+    "difficulty": "simple",
+    "question": "Between which two islands is the Krakatoa caldera located?",
+    "expected_answer": "Between Java and Sumatra in the Sunda Strait.",
+    "evidence": [
+      "between the islands of Java and Sumatra"
+    ]
+  },
+  {
+    "id": "q027",
+    "lang": "en",
+    "doc": "en_06.txt",
+    "difficulty": "simple",
+    "question": "At least how many people died in the 1883 Krakatoa eruption?",
+    "expected_answer": "At least 36,417 people died.",
+    "evidence": [
+      "At least 36,417 people died"
+    ]
+  },
+  {
+    "id": "q028",
+    "lang": "en",
+    "doc": "en_06.txt",
+    "difficulty": "simple",
+    "question": "In what year did the island Anak Krakatoa emerge?",
+    "expected_answer": "In 1927.",
+    "evidence": [
+      "In 1927, a fourth island, Anak Krakatoa"
+    ]
+  },
+  {
+    "id": "q029",
+    "lang": "en",
+    "doc": "en_06.txt",
+    "difficulty": "complex",
+    "question": "How far away was the 1883 Krakatoa explosion heard, and how did its energy compare with the Hiroshima bomb?",
+    "expected_answer": "It was heard 3,600 km away in Alice Springs, and its energy was about 200 megatons of TNT, roughly 13,000 times the Little Boy bomb.",
+    "evidence": [
+      "heard 3,600 km (2,200 mi) away in Alice Springs",
+      "about 13,000 times the nuclear yield of the Little Boy bomb"
+    ]
+  },
+  {
+    "id": "q030",
+    "lang": "en",
+    "doc": "en_07.txt",
+    "difficulty": "simple",
+    "question": "On what date did the Tunguska event take place?",
+    "expected_answer": "On 30 June 1908 (17 June Old Style).",
+    "evidence": [
+      "30 June [O.S. 17 June] 1908"
+    ]
+  },
+  {
+    "id": "q031",
+    "lang": "en",
+    "doc": "en_07.txt",
+    "difficulty": "simple",
+    "question": "Who led the first scientific expedition to the Tunguska site?",
+    "expected_answer": "Leonid Kulik.",
+    "evidence": [
+      "under the direction of Leonid Kulik"
+    ]
+  },
+  {
+    "id": "q032",
+    "lang": "en",
+    "doc": "en_07.txt",
+    "difficulty": "simple",
+    "question": "How large an area of forest did the Tunguska explosion devastate?",
+    "expected_answer": "Nearly 2,150 square kilometres.",
+    "evidence": [
+      "nearly 2,150 km2"
+    ]
+  },
+  {
+    "id": "q033",
+    "lang": "en",
+    "doc": "en_07.txt",
+    "difficulty": "complex",
+    "question": "Why does the scientific consensus attribute the Tunguska event to an air burst rather than a ground impact?",
+    "expected_answer": "The forest was flattened in a radial pattern implying an aerial origin, and no fragment of the body has been formally identified.",
+    "evidence": [
+      "radial pattern which implied an aerial origin",
+      "no fragment has been formally identified"
+    ]
+  },
+  {
+    "id": "q034",
+    "lang": "en",
+    "doc": "en_08.txt",
+    "difficulty": "simple",
+    "question": "Which three scripts or languages appear on the Rosetta Stone?",
+    "expected_answer": "Egyptian hieroglyphic, Demotic, and Ancient Greek.",
+    "evidence": [
+      "using hieroglyphic and Demotic scripts, respectively, while the bottom is in Ancient Greek"
+    ]
+  },
+  {
+    "id": "q035",
+    "lang": "en",
+    "doc": "en_08.txt",
+    "difficulty": "simple",
+    "question": "Who found the Rosetta Stone and when?",
+    "expected_answer": "French army officer Pierre-Francois Bouchard found it in July 1799.",
+    "evidence": [
+      "found there in July 1799 by French army officer Pierre-François Bouchard"
+    ]
+  },
+  {
+    "id": "q036",
+    "lang": "en",
+    "doc": "en_08.txt",
+    "difficulty": "simple",
+    "question": "Where has the Rosetta Stone been on public display since 1802?",
+    "expected_answer": "At the British Museum.",
+    "evidence": [
+      "Since 1802, it has been on public display at the British Museum"
+    ]
+  },
+  {
+    "id": "q037",
+    "lang": "en",
+    "doc": "en_08.txt",
+    "difficulty": "complex",
+    "question": "Why was the Rosetta Stone the key to deciphering Egyptian scripts, and who announced the transliteration in 1822?",
+    "expected_answer": "It carries the same decree in three versions with only minor differences, one in readable Greek; Jean-Francois Champollion announced the transliteration in 1822.",
+    "evidence": [
+      "making the Rosetta Stone key to deciphering the Egyptian scripts",
+      "Champollion announced the transliteration of the Egyptian scripts in Paris in 1822"
+    ]
+  },
+  {
+    "id": "q038",
+    "lang": "en",
+    "doc": "en_09.txt",
+    "difficulty": "simple",
+    "question": "What larger research institution was the Library of Alexandria part of?",
+    "expected_answer": "The Mouseion.",
+    "evidence": [
+      "part of a larger research institution called the Mouseion"
+    ]
+  },
+  {
+    "id": "q039",
+    "lang": "en",
+    "doc": "en_09.txt",
+    "difficulty": "simple",
+    "question": "Which scholar at the Library of Alexandria wrote the Pinakes?",
+    "expected_answer": "Callimachus.",
+    "evidence": [
+      "Callimachus, who wrote the Pinakes"
+    ]
+  },
+  {
+    "id": "q040",
+    "lang": "en",
+    "doc": "en_09.txt",
+    "difficulty": "simple",
+    "question": "Who calculated the circumference of the earth to within a few hundred kilometers while working at the Library?",
+    "expected_answer": "Eratosthenes of Cyrene.",
+    "evidence": [
+      "Eratosthenes of Cyrene, who calculated the circumference of the earth"
+    ]
+  },
+  {
+    "id": "q041",
+    "lang": "en",
+    "doc": "en_09.txt",
+    "difficulty": "complex",
+    "question": "What happened to the Library of Alexandria in 48 BC and how certain is the extent of the damage?",
+    "expected_answer": "Julius Caesar burned it, or part of its collection, during his civil war, but it is unclear how much was destroyed and it seems to have survived or been rebuilt.",
+    "evidence": [
+      "burned by Julius Caesar during his civil war in 48 BC, but it is unclear how much was actually destroyed"
+    ]
+  },
+  {
+    "id": "q042",
+    "lang": "en",
+    "doc": "en_10.txt",
+    "difficulty": "simple",
+    "question": "How long is the Panama Canal?",
+    "expected_answer": "It is 82 kilometers (51 miles) long.",
+    "evidence": [
+      "82-kilometer (51-mile) waterway"
+    ]
+  },
+  {
+    "id": "q043",
+    "lang": "en",
+    "doc": "en_10.txt",
+    "difficulty": "simple",
+    "question": "When was the Panama Canal inaugurated?",
+    "expected_answer": "On 15 August 1914.",
+    "evidence": [
+      "15 August 1914"
+    ]
+  },
+  {
+    "id": "q044",
+    "lang": "en",
+    "doc": "en_10.txt",
+    "difficulty": "simple",
+    "question": "Which country began work on the Panama Canal in 1881?",
+    "expected_answer": "France.",
+    "evidence": [
+      "France began work on the canal in 1881"
+    ]
+  },
+  {
+    "id": "q045",
+    "lang": "en",
+    "doc": "en_10.txt",
+    "difficulty": "complex",
+    "question": "How do ships cross the Isthmus of Panama via the canal, and why was Gatun Lake created?",
+    "expected_answer": "Locks lift ships up to Gatun Lake, 26 meters above sea level, and locks at the other end lower them; the lake was created by damming the Chagres River to reduce excavation work.",
+    "evidence": [
+      "Locks at each end lift ships up to Gatun Lake",
+      "to reduce the amount of excavation work required"
+    ]
+  },
+  {
+    "id": "q046",
+    "lang": "en",
+    "doc": "en_10.txt",
+    "difficulty": "complex",
+    "question": "Who has controlled the Panama Canal over time, and who operates it today?",
+    "expected_answer": "France started it in 1881, the US took over in 1904 and opened it in 1914, and Panama took control in 1999; the Panama Canal Authority now operates it.",
+    "evidence": [
+      "The US took over the project in 1904",
+      "the Panamanian government took control in 1999"
+    ]
+  },
+  {
+    "id": "q047",
+    "lang": "en",
+    "doc": "en_11.txt",
+    "difficulty": "simple",
+    "question": "Who invented the first working transistor and when?",
+    "expected_answer": "John Bardeen, Walter Brattain and William Shockley at Bell Labs invented the point-contact transistor in 1947.",
+    "evidence": [
+      "invented in 1947 by physicists John Bardeen, Walter Brattain, and William Shockley at Bell Labs"
+    ]
+  },
+  {
+    "id": "q048",
+    "lang": "en",
+    "doc": "en_11.txt",
+    "difficulty": "simple",
+    "question": "In which year was the Nobel Prize in Physics shared for the transistor?",
+    "expected_answer": "1956.",
+    "evidence": [
+      "shared the 1956 Nobel Prize in Physics"
+    ]
+  },
+  {
+    "id": "q049",
+    "lang": "en",
+    "doc": "en_11.txt",
+    "difficulty": "simple",
+    "question": "Who proposed the field-effect transistor concept in 1925?",
+    "expected_answer": "Physicist Julius Edgar Lilienfeld.",
+    "evidence": [
+      "Julius Edgar Lilienfeld proposed the concept of a field-effect transistor (FET) in 1925"
+    ]
+  },
+  {
+    "id": "q050",
+    "lang": "en",
+    "doc": "en_11.txt",
+    "difficulty": "complex",
+    "question": "Why can a transistor amplify a signal, and how does it compare with a vacuum tube?",
+    "expected_answer": "The controlled output power can be higher than the controlling input power; transistors are generally smaller and need less power than vacuum tubes, though some tubes win at very high frequencies or voltages.",
+    "evidence": [
+      "controlled (output) power can be higher than the controlling (input) power",
+      "generally smaller and require less power to operate"
+    ]
+  },
+  {
+    "id": "q051",
+    "lang": "en",
+    "doc": "en_12.txt",
+    "difficulty": "simple",
+    "question": "Who invented the Enigma machine?",
+    "expected_answer": "German engineer Arthur Scherbius.",
+    "evidence": [
+      "invented by German engineer Arthur Scherbius"
+    ]
+  },
+  {
+    "id": "q052",
+    "lang": "en",
+    "doc": "en_12.txt",
+    "difficulty": "simple",
+    "question": "How many letters does the Enigma's rotor mechanism scramble?",
+    "expected_answer": "The 26 letters of the Latin alphabet.",
+    "evidence": [
+      "scrambles the 26 letters of the Latin alphabet"
+    ]
+  },
+  {
+    "id": "q053",
+    "lang": "en",
+    "doc": "en_12.txt",
+    "difficulty": "simple",
+    "question": "When did Poland first crack the Enigma?",
+    "expected_answer": "As early as December 1932.",
+    "evidence": [
+      "Poland first cracked the machine as early as December 1932"
+    ]
+  },
+  {
+    "id": "q054",
+    "lang": "en",
+    "doc": "en_12.txt",
+    "difficulty": "complex",
+    "question": "How did Enigma operators choose message keys, and why did this make attacks seem impossible?",
+    "expected_answer": "Operators picked their own rotor settings (e.g. GTZ), encoded them with the daily settings and typed them twice; only those three letters used the day code, so enough ciphertext under one setting seemed impossible to gather.",
+    "evidence": [
+      "typed twice for a total of six characters",
+      "This made it seemingly impossible to gather enough cyphertext"
+    ]
+  },
+  {
+    "id": "q055",
+    "lang": "en",
+    "doc": "en_13.txt",
+    "difficulty": "simple",
+    "question": "What were Ada Lovelace's birth and death dates?",
+    "expected_answer": "Born 10 December 1815, died 27 November 1852.",
+    "evidence": [
+      "10 December 1815 – 27 November 1852"
+    ]
+  },
+  {
+    "id": "q056",
+    "lang": "en",
+    "doc": "en_13.txt",
+    "difficulty": "simple",
+    "question": "Who were Ada Lovelace's parents?",
+    "expected_answer": "The poet Lord Byron and Anne Isabella Milbanke.",
+    "evidence": [
+      "only legitimate child of poet Lord Byron and reformer Anne Isabella Milbanke"
+    ]
+  },
+  {
+    "id": "q057",
+    "lang": "en",
+    "doc": "en_13.txt",
+    "difficulty": "simple",
+    "question": "Whose proposed machine is Ada Lovelace chiefly known for working on?",
+    "expected_answer": "Charles Babbage's analytical engine.",
+    "evidence": [
+      "Charles Babbage's proposed mechanical general-purpose computer, the analytical engine"
+    ]
+  },
+  {
+    "id": "q058",
+    "lang": "en",
+    "doc": "en_13.txt",
+    "difficulty": "complex",
+    "question": "What did Lovelace add to her translation of Menabrea's article, and what wider potential of computers did she foresee?",
+    "expected_answer": "She added seven long explanatory notes, including a method to calculate Bernoulli numbers, and saw that the machine could encode and manipulate information such as music, not just numbers.",
+    "evidence": [
+      "seven long explanatory notes",
+      "encoding information besides mere arithmetical figures, such as music"
+    ]
+  },
+  {
+    "id": "q059",
+    "lang": "en",
+    "doc": "en_14.txt",
+    "difficulty": "simple",
+    "question": "Between which years did Kepler publish his laws of planetary motion?",
+    "expected_answer": "From 1609 to 1621.",
+    "evidence": [
+      "published by Johannes Kepler from 1609 to 1621"
+    ]
+  },
+  {
+    "id": "q060",
+    "lang": "en",
+    "doc": "en_14.txt",
+    "difficulty": "simple",
+    "question": "Whose astronomical data were Kepler's laws adapted to?",
+    "expected_answer": "Tycho Brahe's.",
+    "evidence": [
+      "accurate astronomical data of Tycho Brahe"
+    ]
+  },
+  {
+    "id": "q061",
+    "lang": "en",
+    "doc": "en_14.txt",
+    "difficulty": "simple",
+    "question": "What does Kepler's first law say about a planet's orbit?",
+    "expected_answer": "The orbit of a planet is an ellipse with the Sun at one of the two foci.",
+    "evidence": [
+      "The orbit of a planet is an ellipse with the Sun at one of the two foci."
+    ]
+  },
+  {
+    "id": "q062",
+    "lang": "en",
+    "doc": "en_14.txt",
+    "difficulty": "complex",
+    "question": "What do Kepler's second and third laws say about a planet's speed and its distance from the Sun?",
+    "expected_answer": "A planet travels faster when closer to the Sun, and the farther a planet is from the Sun, the longer its orbital period.",
+    "evidence": [
+      "when a planet is closer to the Sun, it travels faster",
+      "the farther a planet is from the Sun, the longer its orbital period"
+    ]
+  },
+  {
+    "id": "q063",
+    "lang": "en",
+    "doc": "en_14.txt",
+    "difficulty": "complex",
+    "question": "How did Kepler's model improve on Copernicus's model of planetary orbits?",
+    "expected_answer": "Kepler replaced circular orbits with epicycles by ellipses, placed the Sun at a focus rather than the center, and showed speed is not constant while area swept per time is.",
+    "evidence": [
+      "not a circle with epicycles, but an ellipse",
+      "not at the center but at a focal point"
+    ]
+  },
+  {
+    "id": "q064",
+    "lang": "fa",
+    "doc": "fa_00.txt",
+    "difficulty": "simple",
+    "question": "حافظ در چه سال‌هایی (به هجری قمری) زندگی کرد؟",
+    "expected_answer": "حافظ از سال ۷۲۷ تا ۷۹۲ هجری قمری زندگی کرد.",
+    "evidence": [
+      "۷۲۷ – ۷۹۲ هجری قمری"
+    ]
+  },
+  {
+    "id": "q065",
+    "lang": "fa",
+    "doc": "fa_00.txt",
+    "difficulty": "simple",
+    "question": "روز بزرگداشت حافظ در تقویم رسمی ایران چه روزی است؟",
+    "expected_answer": "۲۰ مهر.",
+    "evidence": [
+      "۲۰ مهر را روز بزرگداشت حافظ"
+    ]
+  },
+  {
+    "id": "q066",
+    "lang": "fa",
+    "doc": "fa_00.txt",
+    "difficulty": "complex",
+    "question": "بیشتر شعرهای حافظ در چه قالبی است و اشعار او در کدام سده‌ها به زبان‌های اروپایی ترجمه شد؟",
+    "expected_answer": "بیشتر شعرهای او غزل است و در سده‌های هجدهم و نوزدهم میلادی به زبان‌های اروپایی ترجمه شد.",
+    "evidence": [
+      "بیش‌تر شعرهای او غزل است",
+      "در سده‌های هجدهم و نوزدهم میلادی"
+    ]
+  },
+  {
+    "id": "q067",
+    "lang": "fa",
+    "doc": "fa_01.txt",
+    "difficulty": "simple",
+    "question": "سعدی در کدام مرکز علمی تحصیل کرد؟",
+    "expected_answer": "در نظامیهٔ بغداد.",
+    "evidence": [
+      "او در نظامیهٔ بغداد"
+    ]
+  },
+  {
+    "id": "q068",
+    "lang": "fa",
+    "doc": "fa_01.txt",
+    "difficulty": "simple",
+    "question": "آرامگاه سعدی کجاست و به چه نامی شناخته می‌شود؟",
+    "expected_answer": "در شیراز و به سعدیه معروف است.",
+    "evidence": [
+      "آرامگاه وی در شیراز واقع شده است که به سعدیه معروف است"
+    ]
+  },
+  {
+    "id": "q069",
+    "lang": "fa",
+    "doc": "fa_01.txt",
+    "difficulty": "complex",
+    "question": "چرا سرزمین پارس از حملهٔ مغول در امان ماند؟",
+    "expected_answer": "به دلیل تدابیر ابوبکر بن سعد، ششمین و معروف‌ترین اتابکان سلغری شیراز.",
+    "evidence": [
+      "به دلیل تدابیر ابوبکر بن سعد"
+    ]
+  },
+  {
+    "id": "q070",
+    "lang": "fa",
+    "doc": "fa_02.txt",
+    "difficulty": "simple",
+    "question": "ساخت تخت جمشید در چه سالی آغاز شد؟",
+    "expected_answer": "در سال ۵۱۸ پیش از میلاد.",
+    "evidence": [
+      "در سال ۵۱۸ پیش از میلاد بنای تخت جمشید"
+    ]
+  },
+  {
+    "id": "q071",
+    "lang": "fa",
+    "doc": "fa_02.txt",
+    "difficulty": "simple",
+    "question": "بنیان‌گذار تخت جمشید چه کسی بود؟",
+    "expected_answer": "داریوش بزرگ.",
+    "evidence": [
+      "بنیان‌گذار تخت جمشید داریوش بزرگ بود"
+    ]
+  },
+  {
+    "id": "q072",
+    "lang": "fa",
+    "doc": "fa_02.txt",
+    "difficulty": "simple",
+    "question": "تخت جمشید در کدام استان و شهر قرار دارد؟",
+    "expected_answer": "در استان فارس، در شهر مرودشت.",
+    "evidence": [
+      "در استان فارس واقع در شهر مرودشت ایران"
+    ]
+  },
+  {
+    "id": "q073",
+    "lang": "fa",
+    "doc": "fa_02.txt",
+    "difficulty": "complex",
+    "question": "چرا نام پارسه فراموش شد و مردم نام تخت جمشید را بر کاخ نهادند؟",
+    "expected_answer": "به‌دلیل فراموشی خط و زبان پارسی باستان و ناآشنا بودن سنگ‌نوشته‌ها.",
+    "evidence": [
+      "به‌دلیل فراموشی خط و زبان پارسی باستان"
+    ]
+  },
+  {
+    "id": "q074",
+    "lang": "fa",
+    "doc": "fa_03.txt",
+    "difficulty": "simple",
+    "question": "دریاچه ارومیه در کدام بخش ایران قرار دارد و چه نوع دریاچه‌ای است؟",
+    "expected_answer": "یک دریاچه آب شور در شمال غربی ایران و بزرگ‌ترین دریاچه داخلی کشور است.",
+    "evidence": [
+      "یک دریاچه آب شور در شمال غربی ایران"
+    ]
+  },
+  {
+    "id": "q075",
+    "lang": "fa",
+    "doc": "fa_03.txt",
+    "difficulty": "simple",
+    "question": "بیشترین حجم آب دریاچه ارومیه چقدر بود و در چه سالی ثبت شد؟",
+    "expected_answer": "۳۲ میلیارد متر مکعب در سال ۱۳۷۴.",
+    "evidence": [
+      "دریاچه ارومیه در سال ۱۳۷۴ بیشترین حجم آب به میزان ۳۲ میلیارد متر مکعب"
+    ]
+  },
+  {
+    "id": "q076",
+    "lang": "fa",
+    "doc": "fa_03.txt",
+    "difficulty": "simple",
+    "question": "مساحت دریاچه ارومیه در سال ۱۳۷۷ چقدر بود؟",
+    "expected_answer": "حدود شش هزار کیلومتر مربع.",
+    "evidence": [
+      "مساحت این دریاچه در سال ۱۳۷۷ در حدود شش هزار کیلومتر مربع"
+    ]
+  },
+  {
+    "id": "q077",
+    "lang": "fa",
+    "doc": "fa_03.txt",
+    "difficulty": "complex",
+    "question": "دریاچه ارومیه میان کدام استان‌ها قرار دارد و تا سال ۱۴۰۱ چه مقدار از آن خشک شده بود؟",
+    "expected_answer": "میان آذربایجان غربی و آذربایجان شرقی؛ تا سال ۱۴۰۱ حدود ۹۵ درصد آن خشک شده بود.",
+    "evidence": [
+      "میان دو استان آذربایجان غربی و آذربایجان شرقی",
+      "تا سال ۱۴۰۱، ۹۵ درصد دریاچه خشک شده است"
+    ]
+  },
+  {
+    "id": "q078",
+    "lang": "fa",
+    "doc": "fa_04.txt",
+    "difficulty": "simple",
+    "question": "زمین‌لرزهٔ بم چه روز و ساعتی رخ داد؟",
+    "expected_answer": "ساعت ۵:۲۶ بامداد روز جمعه ۵ دی ۱۳۸۲.",
+    "evidence": [
+      "۵:۲۶ بامداد روز جمعه ۵ دی ۱۳۸۲"
+    ]
+  },
+  {
+    "id": "q079",
+    "lang": "fa",
+    "doc": "fa_04.txt",
+    "difficulty": "simple",
+    "question": "بزرگی زمین‌لرزهٔ بم چقدر بود؟",
+    "expected_answer": "۶٫۶ در مقیاس بزرگی گشتاوری.",
+    "evidence": [
+      "زمین‌لرزه‌ای با بزرگی ۶٫۶"
+    ]
+  },
+  {
+    "id": "q080",
+    "lang": "fa",
+    "doc": "fa_04.txt",
+    "difficulty": "simple",
+    "question": "فاصلهٔ رومرکز زمین‌لرزهٔ بم تا شهر بم چقدر بود؟",
+    "expected_answer": "حدود چهار کیلومتر.",
+    "evidence": [
+      "فاصله رومرکز زمین لرزه تا شهر بم حدود چهار کیلومتر بود"
+    ]
+  },
+  {
+    "id": "q081",
+    "lang": "fa",
+    "doc": "fa_04.txt",
+    "difficulty": "complex",
+    "question": "چه عواملی باعث خسارات فراوان زمین‌لرزهٔ بم شد؟",
+    "expected_answer": "شدت زلزله، عمق کم، ساعت وقوع، طولانی بودن مدت زمین‌لرزه و نزدیکی کانون به شهر.",
+    "evidence": [
+      "عمق کم، ساعت وقوع، طولانی بودن مدت زمین لرزه و نزدیکی کانون زلزله به شهر"
+    ]
+  },
+  {
+    "id": "q082",
+    "lang": "fa",
+    "doc": "fa_05.txt",
+    "difficulty": "simple",
+    "question": "به محل خروج آب قنات چه می‌گویند؟",
+    "expected_answer": "مظهر قنات.",
+    "evidence": [
+      "که به آن مظهر قنات می‌گویند"
+    ]
+  },
+  {
+    "id": "q083",
+    "lang": "fa",
+    "doc": "fa_05.txt",
+    "difficulty": "simple",
+    "question": "قنات اولین بار به دست چه کسانی احداث شد؟",
+    "expected_answer": "ایرانیان.",
+    "evidence": [
+      "قنات اولین بار به دست ایرانیان احداث شد"
+    ]
+  },
+  {
+    "id": "q084",
+    "lang": "fa",
+    "doc": "fa_05.txt",
+    "difficulty": "simple",
+    "question": "شکل بومی‌سازی‌شدهٔ قنات در دزفول چه نامیده می‌شود؟",
+    "expected_answer": "قمش.",
+    "evidence": [
+      "را قمش می‌نامند"
+    ]
+  },
+  {
+    "id": "q085",
+    "lang": "fa",
+    "doc": "fa_05.txt",
+    "difficulty": "complex",
+    "question": "چرا ۹۰ درصد قنات‌های ایران خشک شدند و احیای آن‌ها ممکن نیست؟",
+    "expected_answer": "چون احداث چاه‌های عمیق سطح آب را بسیار پایین برد.",
+    "evidence": [
+      "احداث چاه‌های عمیق باعث خشک شدن ۹۰ درصد از قنوات گردید"
+    ]
+  },
+  {
+    "id": "q086",
+    "lang": "fa",
+    "doc": "fa_06.txt",
+    "difficulty": "simple",
+    "question": "نوروز در چه روزی از سال خورشیدی است؟",
+    "expected_answer": "نخستین روز سال خورشیدی، یکم فروردین.",
+    "evidence": [
+      "نخستین روز سال خورشیدی برابر با یکم فروردین"
+    ]
+  },
+  {
+    "id": "q087",
+    "lang": "fa",
+    "doc": "fa_06.txt",
+    "difficulty": "simple",
+    "question": "یونسکو نوروز را به چه عنوانی ثبت جهانی کرده است؟",
+    "expected_answer": "به عنوان میراث فرهنگی و معنوی بشر.",
+    "evidence": [
+      "به عنوان میراث فرهنگی و معنوی بشر به ثبت جهانی رسیده است"
+    ]
+  },
+  {
+    "id": "q088",
+    "lang": "fa",
+    "doc": "fa_06.txt",
+    "difficulty": "complex",
+    "question": "نوروز با چه رویداد طبیعی همزمان است و برای پیروان کدام ادیان روز مقدس به‌شمار می‌رود؟",
+    "expected_answer": "با اعتدال بهاری همزمان است و برای زرتشتیان و بهاییان روز مقدس است.",
+    "evidence": [
+      "زمان برگزاری نوروز، اعتدال بهاری",
+      "زرتشتیان و بهاییان"
+    ]
+  },
+  {
+    "id": "q089",
+    "lang": "fa",
+    "doc": "fa_07.txt",
+    "difficulty": "simple",
+    "question": "فردوسی سرودن شاهنامه را در چند سالگی آغاز کرد؟",
+    "expected_answer": "در سی‌سالگی.",
+    "evidence": [
+      "در سی‌سالگی آغاز کرد"
+    ]
+  },
+  {
+    "id": "q090",
+    "lang": "fa",
+    "doc": "fa_07.txt",
+    "difficulty": "simple",
+    "question": "فردوسی چه سالی شاهنامه را به پایان برد؟",
+    "expected_answer": "در ۳۸۴ هجری قمری (۹۴۴ میلادی).",
+    "evidence": [
+      "(۹۴۴ میلادی)"
+    ]
+  },
+  {
+    "id": "q091",
+    "lang": "fa",
+    "doc": "fa_07.txt",
+    "difficulty": "complex",
+    "question": "ویراست دوم شاهنامه چه زمانی و در چه سنی از فردوسی به پایان رسید؟",
+    "expected_answer": "در ۴۰۰ هجری قمری (۱۰۱۰ میلادی)، در هفتاد و یک سالگی.",
+    "evidence": [
+      "در هفتاد و یک سالگی، ویراست دوم را به فرجام رساند"
+    ]
+  },
+  {
+    "id": "q092",
+    "lang": "fa",
+    "doc": "fa_08.txt",
+    "difficulty": "simple",
+    "question": "شاهنامه بر اساس دست‌نوشته‌ها نزدیک به چند بیت دارد؟",
+    "expected_answer": "نزدیک به ۵۰ تا ۶۱ هزار بیت.",
+    "evidence": [
+      "نزدیک به ۵۰٬۰۰۰ تا ۶۱٬۰۰۰ بیت"
+    ]
+  },
+  {
+    "id": "q093",
+    "lang": "fa",
+    "doc": "fa_08.txt",
+    "difficulty": "simple",
+    "question": "شاهنامه در کدام بحر سروده شده است؟",
+    "expected_answer": "در بحر متقارب مثمّن محذوف.",
+    "evidence": [
+      "بحر متقارب مثمّن محذوف"
+    ]
+  },
+  {
+    "id": "q094",
+    "lang": "fa",
+    "doc": "fa_08.txt",
+    "difficulty": "simple",
+    "question": "شمار واژه‌های عربی در شاهنامه حدود چند تاست؟",
+    "expected_answer": "حدود ۷۲۶ واژه.",
+    "evidence": [
+      "حدود ۷۲۶ تا است"
+    ]
+  },
+  {
+    "id": "q095",
+    "lang": "fa",
+    "doc": "fa_08.txt",
+    "difficulty": "complex",
+    "question": "شاهنامه شامل کدام چهار دودمان پادشاهی و کدام سه بخش است؟",
+    "expected_answer": "دودمان‌های پیشدادیان، کیانیان، اشکانیان و ساسانیان؛ و بخش‌های اسطوره‌ای، پهلوانی و تاریخی.",
+    "evidence": [
+      "پیشدادیان، کیانیان، اشکانیان و ساسانیان",
+      "سه بخش اسطوره‌ای، پهلوانی و تاریخی"
+    ]
+  },
+  {
+    "id": "q096",
+    "lang": "fa",
+    "doc": "fa_09.txt",
+    "difficulty": "simple",
+    "question": "دو دانشنامهٔ جامع علمی و فلسفی ابن سینا کدامند؟",
+    "expected_answer": "کتاب شفا و دانشنامهٔ علائی.",
+    "evidence": [
+      "کتاب شفا و دانشنامهٔ علائی"
+    ]
+  },
+  {
+    "id": "q097",
+    "lang": "fa",
+    "doc": "fa_09.txt",
+    "difficulty": "simple",
+    "question": "کتاب القانون فی الطب اثر کیست و در چه زمینه‌ای است؟",
+    "expected_answer": "اثر ابن سینا و از معروف‌ترین آثار تاریخ پزشکی است.",
+    "evidence": [
+      "القانون فی الطب به عنوان یکی از معروف‌ترین آثار تاریخ پزشکی"
+    ]
+  },
+  {
+    "id": "q098",
+    "lang": "fa",
+    "doc": "fa_09.txt",
+    "difficulty": "complex",
+    "question": "ابن سینا در جوانی در دربار کدام امیر و در کدام شهر بود و چرا از آنجا رفت؟",
+    "expected_answer": "در دربار امیر نوح سامانی در بخارا بود و با زوال سامانیان و نزدیک شدن سپاه سلطان محمود غزنوی از آنجا رفت.",
+    "evidence": [
+      "دربار امیر نوح سامانی در بخارا",
+      "نزدیک شدن خطر سپاه سلطان محمود غزنوی"
+    ]
+  },
+  {
+    "id": "q099",
+    "lang": "fa",
+    "doc": "fa_10.txt",
+    "difficulty": "simple",
+    "question": "خوارزمی در کدام شهر و در دربار چه کسانی می‌زیست؟",
+    "expected_answer": "در بغداد و در دربار خلیفه‌های عباسی.",
+    "evidence": [
+      "در بغداد و در دربار خلیفه‌های عباسی می‌زیست"
+    ]
+  },
+  {
+    "id": "q100",
+    "lang": "fa",
+    "doc": "fa_10.txt",
+    "difficulty": "simple",
+    "question": "جرج سارتن نیمهٔ نخست سدهٔ نهم میلادی را چه نامیده است؟",
+    "expected_answer": "«عصر خوارزمی».",
+    "evidence": [
+      "را «عصر خوارزمی» نامیده است"
+    ]
+  },
+  {
+    "id": "q101",
+    "lang": "fa",
+    "doc": "fa_10.txt",
+    "difficulty": "simple",
+    "question": "واژهٔ algorithm از چه چیزی گرفته شده است؟",
+    "expected_answer": "از صورت لاتین‌شدهٔ نام خوارزمی (Algoritmi).",
+    "evidence": [
+      "از صورت لاتین‌شدهٔ نام او (Algoritmi) گرفته شده است"
+    ]
+  },
+  {
+    "id": "q102",
+    "lang": "fa",
+    "doc": "fa_10.txt",
+    "difficulty": "complex",
+    "question": "چرا کتاب الجبر و المقابله اثری مهم در تاریخ ریاضیات شمرده می‌شود؟",
+    "expected_answer": "نخستین اثر مستقل و نظام‌مند دربارهٔ جبر است و در آن همهٔ گونه‌های شناخته‌شدهٔ معادلهٔ درجه دوم دسته‌بندی، حل و با هندسه اثبات شده‌اند.",
+    "evidence": [
+      "نخستین اثر مستقل و نظام‌مند در این موضوع است",
+      "دسته‌بندی، حل و با هندسه اثبات شده‌اند"
+    ]
+  },
+  {
+    "id": "q103",
+    "lang": "fa",
+    "doc": "fa_11.txt",
+    "difficulty": "simple",
+    "question": "ارتفاع کوه دماوند چقدر است؟",
+    "expected_answer": "۵۶۷۱ متر.",
+    "evidence": [
+      "با بلندای ۵۶۷۱ متر"
+    ]
+  },
+  {
+    "id": "q104",
+    "lang": "fa",
+    "doc": "fa_11.txt",
+    "difficulty": "simple",
+    "question": "کوه دماوند در کدام استان قرار دارد؟",
+    "expected_answer": "در استان مازندران.",
+    "evidence": [
+      "در استان مازندران ایران قرار دارد"
+    ]
+  },
+  {
+    "id": "q105",
+    "lang": "fa",
+    "doc": "fa_11.txt",
+    "difficulty": "complex",
+    "question": "دماوند چه زمانی و به چه عنوانی در فهرست آثار ملی ایران ثبت شد؟",
+    "expected_answer": "در ۱۳ تیر ۱۳۸۶ به‌عنوان نخستین اثر طبیعی ایران در فهرست آثار ملی ثبت شد.",
+    "evidence": [
+      "نخستین اثر طبیعی ایران در فهرست آثار ملی ایران ثبت شد"
+    ]
+  },
+  {
+    "id": "q106",
+    "lang": "fa",
+    "doc": "fa_12.txt",
+    "difficulty": "simple",
+    "question": "مساحت دشت لوت چقدر است؟",
+    "expected_answer": "بیش از ۴۰ هزار کیلومتر مربع (شامل عرصه و حریم).",
+    "evidence": [
+      "مساحتی بیش از ۴۰ هزار کیلومتر مربع"
+    ]
+  },
+  {
+    "id": "q107",
+    "lang": "fa",
+    "doc": "fa_12.txt",
+    "difficulty": "simple",
+    "question": "بیشینهٔ دمای ثبت‌شده در کویر لوت در سال ۲۰۰۵ چقدر بود؟",
+    "expected_answer": "۷۰٫۷ درجهٔ سانتی‌گراد.",
+    "evidence": [
+      "بیشینه دمای ۷۰٫۷ درجه سانتیگراد"
+    ]
+  },
+  {
+    "id": "q108",
+    "lang": "fa",
+    "doc": "fa_12.txt",
+    "difficulty": "simple",
+    "question": "بیابان لوت چندمین بیابان بزرگ جهان است؟",
+    "expected_answer": "سی و سومین.",
+    "evidence": [
+      "سی و سومین بیابان بزرگ جهان"
+    ]
+  },
+  {
+    "id": "q109",
+    "lang": "fa",
+    "doc": "fa_12.txt",
+    "difficulty": "complex",
+    "question": "دانشمندان چه چیزی را علت گرمای بسیار بالای لوت می‌دانند؟",
+    "expected_answer": "رنگ تیره و خشکی سطح آن که گرمای خورشید را جذب می‌کند.",
+    "evidence": [
+      "رنگ تیره و خشکی سطح آن"
+    ]
+  },
+  {
+    "id": "q110",
+    "lang": "fa",
+    "doc": "fa_13.txt",
+    "difficulty": "simple",
+    "question": "معنی نام پاسارگاد چیست؟",
+    "expected_answer": "نیکان روزگار.",
+    "evidence": [
+      "به معنی نیکان روزگار است"
+    ]
+  },
+  {
+    "id": "q111",
+    "lang": "fa",
+    "doc": "fa_13.txt",
+    "difficulty": "simple",
+    "question": "مجموعهٔ پاسارگاد در کدام استان قرار دارد؟",
+    "expected_answer": "در استان فارس.",
+    "evidence": [
+      "در شهرستان پاسارگاد در استان فارس قرار گرفته است"
+    ]
+  },
+  {
+    "id": "q112",
+    "lang": "fa",
+    "doc": "fa_13.txt",
+    "difficulty": "complex",
+    "question": "پاسارگاد چندمین اثر ثبت‌شدهٔ ایران در فهرست میراث جهانی است و با چه درصدی از آرا ثبت شد؟",
+    "expected_answer": "پنجمین اثر ایران بود و با صد در صد آرا ثبت شد.",
+    "evidence": [
+      "پنجمین مجموعه ثبت شده",
+      "با صد در صد آرا"
+    ]
+  },
+  {
+    "id": "q113",
+    "lang": "fa",
+    "doc": "fa_14.txt",
+    "difficulty": "simple",
+    "question": "چغازنبیل حدود چه زمانی ساخته شد؟",
+    "expected_answer": "حدود ۱۲۵۰ سال پیش از میلاد در تمدن ایلام.",
+    "evidence": [
+      "حدود ۱۲۵۰ سال پیش از میلاد"
+    ]
+  },
+  {
+    "id": "q114",
+    "lang": "fa",
+    "doc": "fa_14.txt",
+    "difficulty": "simple",
+    "question": "در زبان لری چغا و زنبیل به چه معنی است؟",
+    "expected_answer": "چغا به معنی تپه و زنبیل به معنی سبد است.",
+    "evidence": [
+      "چغا به معنی تپه و زنبیل به معنی سبد"
+    ]
+  },
+  {
+    "id": "q115",
+    "lang": "fa",
+    "doc": "fa_14.txt",
+    "difficulty": "complex",
+    "question": "چغازنبیل در چه سالی و با چه امتیازی در فهرست میراث جهانی یونسکو قرار گرفت؟",
+    "expected_answer": "در سال ۱۹۷۹ میلادی به‌عنوان نخستین اثر تاریخی ایران در این فهرست.",
+    "evidence": [
+      "در سال ۱۹۷۹ میلادی به‌عنوان نخستین اثر تاریخی از ایران"
+    ]
   }
 ]
