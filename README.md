@@ -72,9 +72,9 @@ Semantic Cache Lookup
 |---|---|
 | Python | Core implementation |
 | FastAPI | REST API and request handling |
-| Qdrant | Vector search and semantic cache |
+| numpy (Qdrant later) | Vector search; a Qdrant backend can be added behind the same interface |
 | sentence-transformers | Query embedding generation |
-| LiteLLM | Unified interface for multiple LLM providers |
+| requests + OpenRouter | LLM calls (LiteLLM can replace this later) |
 | SQLite | Request logs and performance metrics |
 | Streamlit | Interactive evaluation dashboard |
 
@@ -135,75 +135,105 @@ The cache similarity threshold will be tuned using paraphrase pairs and near-mis
 
 Cost estimates will use a configurable model-pricing table and recorded token usage. Embedding and other system overhead will be considered separately when reporting total operating cost.
 
+## Project Status
+
+| Step | Status |
+|---|---|
+| Documents (15 English + 15 Persian Wikipedia articles) | Done |
+| Eval set: 115 questions, 50 paraphrase pairs, 50 near-miss pairs | Done |
+| RAG pipeline, request logging, cost table, baseline runner | Done (tested with a mock LLM) |
+| Real baseline numbers | Needs a run with real models, see below |
+| Semantic cache, threshold tuning, router, escalation, dashboard, comparison | Not started |
+
 ## Project Structure
 
 ```text
 semantic-caching-cost-aware-routing/
 ├── app/
-│   ├── main.py              # FastAPI application
-│   ├── cache.py             # Semantic cache operations
-│   ├── router.py            # Query classification and routing
-│   ├── models.py            # LLM integration
-│   ├── rag.py               # Retrieval and generation pipeline
-│   ├── evaluation.py        # Benchmarking and quality evaluation
-│   └── logging_config.py    # Request and metrics logging
-├── dashboard/
-│   └── app.py               # Streamlit dashboard
-├── data/
-│   └── eval_questions.json  # Evaluation dataset
-├── tests/
-│   ├── test_cache.py
-│   ├── test_router.py
-│   └── test_api.py
+│   ├── config.py            # Settings from environment variables
+│   ├── text.py              # Normalisation, language detection, sentence splitting (EN + FA)
+│   ├── embeddings.py        # Embedders: real multilingual model + offline stand-in
+│   ├── vectorstore.py       # Exact cosine search with numpy (no server needed)
+│   ├── rag.py               # Chunking, index, retrieval, prompt, generation
+│   ├── models.py            # Mock LLM and OpenRouter client (disk cache + call budget)
+│   ├── logging_config.py    # SQLite request log and cost accounting
+│   └── evaluation.py        # Quality scoring, traffic builder, summaries, baseline runner
+├── scripts/
+│   ├── run_baseline.py      # Run the always-large-model baseline
+│   ├── check_key.py         # Check the OpenRouter key and remaining credit
+│   └── check_models.py      # Smoke-test the two models
 ├── config/
-│   └── model_pricing.json   # Configurable model prices
-├── .env.example
-├── .gitignore
-├── requirements.txt
+│   └── model_pricing.json   # Price table (placeholder values, edit before trusting costs)
+├── data/
+│   ├── eval_questions.json  # 115 questions (EN + FA) with answers and verbatim evidence quotes
+│   ├── paraphrase_pairs.json# 50 pairs that SHOULD hit the cache
+│   └── near_miss_pairs.json # 50 pairs that must NOT hit the cache
+├── docs/                    # Source documents
+├── tests/                   # 34 tests (python -m unittest discover -s tests -t .)
+├── fetch_docs.py            # Downloads the Wikipedia documents
+├── generate_eval.py         # Original LLM-based question generator (superseded by data/)
 └── README.md
 ```
 
-*The structure above is the planned organization and may change during implementation.*
+Planned but not built yet: `app/cache.py`, `app/router.py`, `app/main.py` (FastAPI), `dashboard/app.py` (Streamlit).
+
+## Evaluation Data
+
+Every question in `data/eval_questions.json` was written from the document text and carries one or more
+`evidence` quotes that appear verbatim in its source document. `tests/test_data.py` fails if any quote
+stops matching, so answers stay traceable to the documents.
+
+- 115 questions: 63 English, 52 Persian; 82 `simple` (single fact lookup) and 33 `complex` (combine facts or explain).
+- Paraphrase pairs keep the same answer in different words, and double as the repeat traffic in the benchmark.
+- Near-miss pairs are worded almost identically but have different answers (for example Pasargadae vs Chogha Zanbil
+  UNESCO dates). One pair is flagged `"hard": true` because it only reverses word order, which most embedders
+  cannot separate; report threshold results with and without it.
 
 ## Getting Started
 
 ### Prerequisites
 
 - Python 3.10 or later
-- API credentials for the selected LLM provider or providers
-- Qdrant running locally or through an accessible instance
+- An OpenRouter API key only if you want real model calls (the mock needs nothing)
 
 ### Installation
-
-Clone the repository:
 
 ```bash
 git clone https://github.com/Minna79/semantic-caching-cost-aware-routing.git
 cd semantic-caching-cost-aware-routing
-```
-
-Create and activate a virtual environment:
-
-```bash
 python3 -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env   # then edit
 ```
 
-Install dependencies:
+### Running the tests
 
 ```bash
-pip install -r requirements.txt
+python -m unittest discover -s tests -t .
 ```
 
-Configure environment variables using `.env.example` as a template. Add the required model-provider credentials and configuration values to your local `.env` file. Never commit API keys or secrets.
+### Running the baseline
 
-### Running the Application
+Plumbing check, completely free (mock LLM and offline embedder, numbers are not meaningful):
 
-The exact commands will be added once the application entry points and configuration are implemented.
+```bash
+python scripts/run_baseline.py
+```
 
-The planned services are:
+Real run (uses the multilingual embedding model and OpenRouter):
 
-- FastAPI backend for query processing
-- Qdrant for semantic cache storage
-- SQLite for request metrics
-- Streamlit for the performance dashboard
+```bash
+python scripts/run_baseline.py --llm openrouter --embedding sentence-transformers --limit 20   # small trial first
+python scripts/run_baseline.py --llm openrouter --embedding sentence-transformers
+```
+
+Results go to `data/runtime/` (gitignored): the request log (`requests.db`) and `reports/baseline.json`.
+
+### Working on a tight budget
+
+- Every successful model response is cached on disk (`data/runtime/llm_cache.sqlite`), so re-running a prompt never costs twice.
+- `MAX_LLM_CALLS` (default 300) stops a run after that many real API calls.
+- Cost in reports is computed from token counts and `config/model_pricing.json`, not from provider billing, so a free model can
+  stand in for a paid one: set `LARGE_MODEL` to a free model id and keep the paid model's list price in the price table.
+  State this plainly in any results you publish.

@@ -1,0 +1,12 @@
+numpy
+requests
+python-dotenv
+sentence-transformers
+pandas
+pytest
+# Added when their steps are built (not used yet):
+# fastapi
+# uvicorn[standard]
+# streamlit
+# qdrant-client
+# litellm

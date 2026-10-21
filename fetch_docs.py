@@ -15,8 +15,8 @@ FA = ["حافظ", "سعدی", "تخت جمشید", "دریاچه ارومیه", 
       "نوروز", "فردوسی", "شاهنامه", "ابن سینا", "خوارزمی", "دماوند",
       "کویر لوت", "پاسارگاد", "چغازنبیل"]
 
-# Wikimedia asks for a descriptive UA with a contact (email or repo URL)
-HEADERS = {"User-Agent": "rag-eval-project/1.0 (https://github.com/YOUR_NAME/YOUR_REPO; you@example.com)"}
+# Wikimedia asks for a descriptive UA with a contact (repo URL is fine)
+HEADERS = {"User-Agent": "rag-eval-project/1.0 (https://github.com/Minna79/semantic-caching-cost-aware-routing)"}
 
 session = requests.Session()
 session.headers.update(HEADERS)

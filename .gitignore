@@ -9,3 +9,6 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Generated at runtime: indexes, request logs, LLM response cache, reports
+data/runtime/

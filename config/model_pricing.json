@@ -1,0 +1,7 @@
+{
+  "_note": "USD per 1M tokens, keyed by tier. PLACEHOLDER VALUES: check current list prices on openrouter.ai/models for the models you actually stand in for, and edit. Free models are billed at their tier's list price so cost comparisons stay meaningful.",
+  "tiers": {
+    "small": {"input_per_mtok": 1.0, "output_per_mtok": 5.0},
+    "large": {"input_per_mtok": 3.0, "output_per_mtok": 15.0}
+  }
+}
