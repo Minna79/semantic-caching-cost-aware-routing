@@ -6,8 +6,8 @@ import time
 load_dotenv()
 GEN_MODEL = "xingchen-agi/xing4.0-29b-a4b:free"
 QUESTIONS_PER_DOC = 3
-MAX_CHARS = 6000        
-DOCS_DIR = Path("docs")# text sent per document
+MAX_CHARS = 6000  # text sent per document
+DOCS_DIR = Path("docs")
 
 def read_doc(path: Path) -> str:
     ext = path.suffix.lower()
@@ -60,7 +60,8 @@ def ask(prompt: str, retries=5) -> str:
 
         data = r.json()
         
-        if r.status_code in (402, 429, 500, 502, 503, 504):
+        # 402 (payment required) is deliberately not retried: waiting never fixes it
+        if r.status_code in (429, 500, 502, 503, 504):
             wait = int(r.headers.get("Retry-After", 2 ** attempt * 5))
             wait = min(wait, 150)
             print(f"  HTTP {r.status_code}, retry in {wait}s")
@@ -119,13 +120,6 @@ if not rows:
     raise SystemExit("No questions generated. Check the errors above.")
 
 random.seed(0)
-random.shuffle(rows)
-with open("eval_set_raw.csv", "w", newline="", encoding="utf-8-sig") as f:
-    w = csv.DictWriter(f, fieldnames=rows[0].keys())
-    w.writeheader()
-    w.writerows(rows)
-print(f"\nWrote {len(rows)} questions to eval_set_raw.csv")
-
 random.shuffle(rows)
 with open("eval_set_raw.csv", "w", newline="", encoding="utf-8-sig") as f:
     w = csv.DictWriter(f, fieldnames=rows[0].keys())

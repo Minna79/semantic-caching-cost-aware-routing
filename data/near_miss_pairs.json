@@ -1,0 +1,254 @@
+[
+  {
+    "lang": "en",
+    "a": "When was the Antikythera mechanism discovered?",
+    "b": "When was the Antikythera mechanism built?"
+  },
+  {
+    "lang": "en",
+    "a": "Who bought the Voynich manuscript in 1912?",
+    "b": "Who was the first confirmed owner of the Voynich manuscript?"
+  },
+  {
+    "lang": "en",
+    "a": "Where has the Voynich manuscript been held since 1969?",
+    "b": "Where may the Voynich manuscript have been composed?"
+  },
+  {
+    "lang": "en",
+    "a": "Who first described tardigrades, and in what year?",
+    "b": "Who named tardigrades Tardigrada, and in what year?"
+  },
+  {
+    "lang": "en",
+    "a": "How long are tardigrades when fully grown, usually?",
+    "b": "How long can the largest tardigrade species grow?"
+  },
+  {
+    "lang": "en",
+    "a": "When did the Svalbard Global Seed Vault officially open?",
+    "b": "When did the Nordic Gene Bank begin storing seeds in a coal mine near Longyearbyen?"
+  },
+  {
+    "lang": "en",
+    "a": "How many people were killed in the Great Molasses Flood?",
+    "b": "How many people were injured in the Great Molasses Flood?"
+  },
+  {
+    "lang": "en",
+    "a": "How tall was the Great Molasses Flood tank?",
+    "b": "What was the diameter of the Great Molasses Flood tank?"
+  },
+  {
+    "lang": "en",
+    "a": "At least how many people died in the 1883 Krakatoa eruption?",
+    "b": "How many villages and towns were destroyed by the 1883 Krakatoa eruption?"
+  },
+  {
+    "lang": "en",
+    "a": "In what year did Anak Krakatoa emerge?",
+    "b": "In what year did the eruption that destroyed most of Krakatoa occur?"
+  },
+  {
+    "lang": "en",
+    "a": "In what year was the first scientific expedition to Tunguska organized?",
+    "b": "In what year was the Tunguska epicenter discovered?"
+  },
+  {
+    "lang": "en",
+    "a": "How large an area of forest did the Tunguska explosion devastate?",
+    "b": "Within what radius did the Tunguska blast shatter windows?"
+  },
+  {
+    "lang": "en",
+    "a": "When was the Rosetta Stone found?",
+    "b": "When was the Rosetta Stone first put on display at the British Museum?"
+  },
+  {
+    "lang": "en",
+    "a": "Who found the Rosetta Stone?",
+    "b": "Who announced the transliteration of the Egyptian scripts on the Rosetta Stone?"
+  },
+  {
+    "lang": "en",
+    "a": "Who wrote the Pinakes at the Library of Alexandria?",
+    "b": "Who calculated the circumference of the earth at the Library of Alexandria?"
+  },
+  {
+    "lang": "en",
+    "a": "When was the Library of Alexandria burned by Julius Caesar?",
+    "b": "When did Ptolemy VIII purge intellectuals from Alexandria?"
+  },
+  {
+    "lang": "en",
+    "a": "When was the Panama Canal inaugurated?",
+    "b": "When did the expanded Panama Canal begin commercial operation?"
+  },
+  {
+    "lang": "en",
+    "a": "Which country began work on the Panama Canal in 1881?",
+    "b": "Which country took over the Panama Canal project in 1904?"
+  },
+  {
+    "lang": "en",
+    "a": "How long is the Panama Canal?",
+    "b": "How wide are the original Panama Canal locks?"
+  },
+  {
+    "lang": "en",
+    "a": "Who invented the first working transistor?",
+    "b": "Who proposed the concept of the field-effect transistor?"
+  },
+  {
+    "lang": "en",
+    "a": "In what year was the first working transistor invented?",
+    "b": "In what year was the thermionic triode invented?"
+  },
+  {
+    "lang": "en",
+    "a": "Who invented the Enigma machine?",
+    "b": "Who first cracked the Enigma machine?"
+  },
+  {
+    "lang": "en",
+    "a": "When did Poland first crack the Enigma?",
+    "b": "When did Scherbius's firm patent the ideas behind the Enigma?"
+  },
+  {
+    "lang": "en",
+    "a": "When was Ada Lovelace born?",
+    "b": "When did Ada Lovelace marry William King?"
+  },
+  {
+    "lang": "en",
+    "a": "Who were Ada Lovelace's parents?",
+    "b": "Who was Ada Lovelace's husband?"
+  },
+  {
+    "lang": "en",
+    "a": "How many days pass from the March equinox to the September equinox?",
+    "b": "How many days pass from the September equinox to the March equinox?",
+    "hard": true,
+    "note": "Same words in reversed order (answers 186 vs 179 days); most embedders will score this near 1.0. Report threshold results with and without it."
+  },
+  {
+    "lang": "en",
+    "a": "What is a qanat called in Algeria?",
+    "b": "What is a qanat called in Morocco?"
+  },
+  {
+    "lang": "en",
+    "a": "What does the Akkadian word qanû(m) mean?",
+    "b": "What does the Arabic word qanāh mean?"
+  },
+  {
+    "lang": "en",
+    "a": "When did France begin work on the Panama Canal?",
+    "b": "When did France stop work on the Panama Canal?"
+  },
+  {
+    "lang": "en",
+    "a": "What does Kepler's first law say about a planet's orbit?",
+    "b": "What does Kepler's third law say about a planet's orbital period?"
+  },
+  {
+    "lang": "fa",
+    "a": "ساخت تخت جمشید در چه سالی آغاز شد؟",
+    "b": "تخت جمشید در دورهٔ ساسانی چه نامی داشت؟"
+  },
+  {
+    "lang": "fa",
+    "a": "بنیان‌گذار تخت جمشید چه کسی بود؟",
+    "b": "کدام پادشاهان بناهای دیگری به تخت جمشید افزودند؟"
+  },
+  {
+    "lang": "fa",
+    "a": "زمین‌لرزهٔ بم در چه ساعتی رخ داد؟",
+    "b": "زمین‌لرزهٔ بم چند ثانیه طول کشید؟"
+  },
+  {
+    "lang": "fa",
+    "a": "بزرگی زمین‌لرزهٔ بم چقدر بود؟",
+    "b": "جمعیت شهر بم پیش از زمین‌لرزه چقدر بود؟"
+  },
+  {
+    "lang": "fa",
+    "a": "مساحت دریاچه ارومیه در سال ۱۳۷۷ چقدر بود؟",
+    "b": "حجم آب دریاچه ارومیه در سال ۱۳۷۴ چقدر بود؟"
+  },
+  {
+    "lang": "fa",
+    "a": "دریاچه ارومیه میان کدام استان‌ها قرار دارد؟",
+    "b": "دریاچه ارومیه چندمین دریاچه بزرگ آب شور دنیا بود؟"
+  },
+  {
+    "lang": "fa",
+    "a": "حافظ در چه سالی هجری قمری به دنیا آمد؟",
+    "b": "حافظ در چه سالی هجری قمری درگذشت؟"
+  },
+  {
+    "lang": "fa",
+    "a": "فردوسی شاهنامه را در چه سالی به پایان برد؟",
+    "b": "فردوسی ویراست دوم شاهنامه را در چه سالی به پایان رساند؟"
+  },
+  {
+    "lang": "fa",
+    "a": "سعدی در کجا تحصیل کرد؟",
+    "b": "آرامگاه سعدی کجاست؟"
+  },
+  {
+    "lang": "fa",
+    "a": "شاهنامه نزدیک به چند بیت دارد؟",
+    "b": "شاهنامه شامل چند بخش است؟"
+  },
+  {
+    "lang": "fa",
+    "a": "نوروز در چه روزی از سال خورشیدی است؟",
+    "b": "روز بزرگداشت حافظ چه روزی است؟"
+  },
+  {
+    "lang": "fa",
+    "a": "قنات اولین بار توسط چه کسانی احداث شد؟",
+    "b": "شکل بومی قنات در دزفول چه نامیده می‌شود؟"
+  },
+  {
+    "lang": "fa",
+    "a": "ارتفاع دماوند چقدر است؟",
+    "b": "دماوند در چه سالی به‌عنوان اثر طبیعی ملی قرار گرفت؟"
+  },
+  {
+    "lang": "fa",
+    "a": "مساحت دشت لوت چقدر است؟",
+    "b": "طول کویر لوت چقدر است؟"
+  },
+  {
+    "lang": "fa",
+    "a": "بیشینهٔ دمای کویر لوت در سال ۲۰۰۵ چقدر بود؟",
+    "b": "طبق پژوهش ناسا دمای دشت لوت در بیست سال گذشته به چند درجه رسید؟"
+  },
+  {
+    "lang": "fa",
+    "a": "پاسارگاد در چه سالی در فهرست میراث جهانی ثبت شد؟",
+    "b": "چغازنبیل در چه سالی در فهرست میراث جهانی ثبت شد؟"
+  },
+  {
+    "lang": "fa",
+    "a": "معنی نام پاسارگاد چیست؟",
+    "b": "معنی نام چغازنبیل در زبان لری چیست؟"
+  },
+  {
+    "lang": "fa",
+    "a": "خوارزمی در کدام شهر می‌زیست؟",
+    "b": "ابن سینا در جوانی در دربار کدام شهر بود؟"
+  },
+  {
+    "lang": "fa",
+    "a": "کتاب الجبر و المقابله چه ویژگی مهمی دارد؟",
+    "b": "اثر دیگر خوارزمی دربارهٔ چه موضوعی بود؟"
+  },
+  {
+    "lang": "fa",
+    "a": "دماوند در کدام استان قرار دارد؟",
+    "b": "تخت جمشید در کدام استان قرار دارد؟"
+  }
+]

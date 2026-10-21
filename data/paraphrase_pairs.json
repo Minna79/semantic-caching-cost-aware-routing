@@ -1,0 +1,302 @@
+[
+  {
+    "source_id": "q006",
+    "lang": "en",
+    "question": "When was the Antikythera mechanism discovered?",
+    "paraphrase": "In what year was the Antikythera mechanism found?"
+  },
+  {
+    "source_id": "q007",
+    "lang": "en",
+    "question": "How many teeth did the largest gear of the Antikythera mechanism originally have?",
+    "paraphrase": "What was the original tooth count of the biggest gear in the Antikythera mechanism?"
+  },
+  {
+    "source_id": "q011",
+    "lang": "en",
+    "question": "Who bought the Voynich manuscript in 1912?",
+    "paraphrase": "Which person purchased the Voynich manuscript in 1912?"
+  },
+  {
+    "source_id": "q012",
+    "lang": "en",
+    "question": "Where has the Voynich manuscript been held since 1969?",
+    "paraphrase": "Which library has housed the Voynich manuscript since 1969?"
+  },
+  {
+    "source_id": "q014",
+    "lang": "en",
+    "question": "Who first described tardigrades, and in what year?",
+    "paraphrase": "Which zoologist first described tardigrades and when?"
+  },
+  {
+    "source_id": "q015",
+    "lang": "en",
+    "question": "What does the name Tardigrada mean?",
+    "paraphrase": "What is the meaning of the word Tardigrada?"
+  },
+  {
+    "source_id": "q018",
+    "lang": "en",
+    "question": "On which island is the Svalbard Global Seed Vault located?",
+    "paraphrase": "Which island hosts the Svalbard Global Seed Vault?"
+  },
+  {
+    "source_id": "q019",
+    "lang": "en",
+    "question": "When did the Svalbard Global Seed Vault officially open?",
+    "paraphrase": "What was the official opening date of the Svalbard Global Seed Vault?"
+  },
+  {
+    "source_id": "q022",
+    "lang": "en",
+    "question": "On what date did the Great Molasses Flood occur?",
+    "paraphrase": "When did the Boston Molasses Disaster happen?"
+  },
+  {
+    "source_id": "q023",
+    "lang": "en",
+    "question": "How many people were killed in the Great Molasses Flood?",
+    "paraphrase": "What was the death toll of the Great Molasses Flood?"
+  },
+  {
+    "source_id": "q026",
+    "lang": "en",
+    "question": "Between which two islands is the Krakatoa caldera located?",
+    "paraphrase": "Which two islands does the Krakatoa caldera lie between?"
+  },
+  {
+    "source_id": "q027",
+    "lang": "en",
+    "question": "At least how many people died in the 1883 Krakatoa eruption?",
+    "paraphrase": "What was the minimum death toll of the 1883 eruption of Krakatoa?"
+  },
+  {
+    "source_id": "q030",
+    "lang": "en",
+    "question": "On what date did the Tunguska event take place?",
+    "paraphrase": "When did the Tunguska explosion happen?"
+  },
+  {
+    "source_id": "q031",
+    "lang": "en",
+    "question": "Who led the first scientific expedition to the Tunguska site?",
+    "paraphrase": "Which scientist headed the first expedition to the Tunguska site?"
+  },
+  {
+    "source_id": "q036",
+    "lang": "en",
+    "question": "Where has the Rosetta Stone been on public display since 1802?",
+    "paraphrase": "In which museum has the Rosetta Stone been displayed since 1802?"
+  },
+  {
+    "source_id": "q035",
+    "lang": "en",
+    "question": "Who found the Rosetta Stone and when?",
+    "paraphrase": "When was the Rosetta Stone discovered and by whom?"
+  },
+  {
+    "source_id": "q039",
+    "lang": "en",
+    "question": "Which scholar at the Library of Alexandria wrote the Pinakes?",
+    "paraphrase": "Who was the author of the Pinakes at the Library of Alexandria?"
+  },
+  {
+    "source_id": "q042",
+    "lang": "en",
+    "question": "How long is the Panama Canal?",
+    "paraphrase": "What is the length of the Panama Canal?"
+  },
+  {
+    "source_id": "q043",
+    "lang": "en",
+    "question": "When was the Panama Canal inaugurated?",
+    "paraphrase": "On what date did the Panama Canal open?"
+  },
+  {
+    "source_id": "q044",
+    "lang": "en",
+    "question": "Which country began work on the Panama Canal in 1881?",
+    "paraphrase": "What country started building the Panama Canal in 1881?"
+  },
+  {
+    "source_id": "q047",
+    "lang": "en",
+    "question": "Who invented the first working transistor and when?",
+    "paraphrase": "Which physicists built the first working transistor, and in what year?"
+  },
+  {
+    "source_id": "q051",
+    "lang": "en",
+    "question": "Who invented the Enigma machine?",
+    "paraphrase": "Which engineer created the Enigma machine?"
+  },
+  {
+    "source_id": "q053",
+    "lang": "en",
+    "question": "When did Poland first crack the Enigma?",
+    "paraphrase": "What was the earliest date Poland broke Enigma?"
+  },
+  {
+    "source_id": "q055",
+    "lang": "en",
+    "question": "What were Ada Lovelace's birth and death dates?",
+    "paraphrase": "When was Ada Lovelace born and when did she die?"
+  },
+  {
+    "source_id": "q056",
+    "lang": "en",
+    "question": "Who were Ada Lovelace's parents?",
+    "paraphrase": "Which people were the parents of Ada Lovelace?"
+  },
+  {
+    "source_id": "q061",
+    "lang": "en",
+    "question": "What does Kepler's first law say about a planet's orbit?",
+    "paraphrase": "How does Kepler's first law describe the shape of a planet's orbit?"
+  },
+  {
+    "source_id": "q001",
+    "lang": "en",
+    "question": "Approximately how old is the qanat water supply system?",
+    "paraphrase": "About how many years ago did the qanat system originate?"
+  },
+  {
+    "source_id": "q002",
+    "lang": "en",
+    "question": "What is a qanat called in Algeria?",
+    "paraphrase": "What is the Algerian name for a qanat?"
+  },
+  {
+    "source_id": "q059",
+    "lang": "en",
+    "question": "Between which years did Kepler publish his laws of planetary motion?",
+    "paraphrase": "In which years were Kepler's laws of planetary motion published?"
+  },
+  {
+    "source_id": "q038",
+    "lang": "en",
+    "question": "What larger research institution was the Library of Alexandria part of?",
+    "paraphrase": "Which institution was the Library of Alexandria a part of?"
+  },
+  {
+    "source_id": "q065",
+    "lang": "fa",
+    "question": "روز بزرگداشت حافظ در تقویم رسمی ایران چه روزی است؟",
+    "paraphrase": "در تقویم رسمی ایران بزرگداشت حافظ در چه روزی برگزار می‌شود؟"
+  },
+  {
+    "source_id": "q067",
+    "lang": "fa",
+    "question": "سعدی در کدام مرکز علمی تحصیل کرد؟",
+    "paraphrase": "سعدی در کدام مدرسه علمی درس خواند؟"
+  },
+  {
+    "source_id": "q070",
+    "lang": "fa",
+    "question": "ساخت تخت جمشید در چه سالی آغاز شد؟",
+    "paraphrase": "ساختن تخت جمشید از چه سالی شروع شد؟"
+  },
+  {
+    "source_id": "q071",
+    "lang": "fa",
+    "question": "بنیان‌گذار تخت جمشید چه کسی بود؟",
+    "paraphrase": "چه کسی تخت جمشید را بنیان نهاد؟"
+  },
+  {
+    "source_id": "q076",
+    "lang": "fa",
+    "question": "مساحت دریاچه ارومیه در سال ۱۳۷۷ چقدر بود؟",
+    "paraphrase": "در سال ۱۳۷۷ دریاچه ارومیه چند کیلومتر مربع وسعت داشت؟"
+  },
+  {
+    "source_id": "q079",
+    "lang": "fa",
+    "question": "بزرگی زمین‌لرزهٔ بم چقدر بود؟",
+    "paraphrase": "زلزلهٔ بم با چه بزرگی‌ای رخ داد؟"
+  },
+  {
+    "source_id": "q082",
+    "lang": "fa",
+    "question": "به محل خروج آب قنات چه می‌گویند؟",
+    "paraphrase": "نام محل بیرون آمدن آب قنات چیست؟"
+  },
+  {
+    "source_id": "q083",
+    "lang": "fa",
+    "question": "قنات اولین بار به دست چه کسانی احداث شد؟",
+    "paraphrase": "نخستین سازندگان قنات چه کسانی بودند؟"
+  },
+  {
+    "source_id": "q086",
+    "lang": "fa",
+    "question": "نوروز در چه روزی از سال خورشیدی است؟",
+    "paraphrase": "جشن نوروز در کدام روز سال خورشیدی برگزار می‌شود؟"
+  },
+  {
+    "source_id": "q089",
+    "lang": "fa",
+    "question": "فردوسی سرودن شاهنامه را در چند سالگی آغاز کرد؟",
+    "paraphrase": "فردوسی در چه سنی شروع به سرودن شاهنامه کرد؟"
+  },
+  {
+    "source_id": "q093",
+    "lang": "fa",
+    "question": "شاهنامه در کدام بحر سروده شده است؟",
+    "paraphrase": "شاهنامه با چه وزن و بحری سروده شده است؟"
+  },
+  {
+    "source_id": "q094",
+    "lang": "fa",
+    "question": "شمار واژه‌های عربی در شاهنامه حدود چند تاست؟",
+    "paraphrase": "در شاهنامه حدوداً چه تعداد واژهٔ عربی به کار رفته است؟"
+  },
+  {
+    "source_id": "q096",
+    "lang": "fa",
+    "question": "دو دانشنامهٔ جامع علمی و فلسفی ابن سینا کدامند؟",
+    "paraphrase": "کدام دو دانشنامهٔ فلسفی و علمی جامع از ابن سینا است؟"
+  },
+  {
+    "source_id": "q099",
+    "lang": "fa",
+    "question": "خوارزمی در کدام شهر و در دربار چه کسانی می‌زیست؟",
+    "paraphrase": "خوارزمی در کدام شهر زندگی می‌کرد و به دربار چه کسانی وابسته بود؟"
+  },
+  {
+    "source_id": "q103",
+    "lang": "fa",
+    "question": "ارتفاع کوه دماوند چقدر است؟",
+    "paraphrase": "قلهٔ دماوند چند متر بلندی دارد؟"
+  },
+  {
+    "source_id": "q104",
+    "lang": "fa",
+    "question": "کوه دماوند در کدام استان قرار دارد؟",
+    "paraphrase": "دماوند در کدام استان ایران واقع شده است؟"
+  },
+  {
+    "source_id": "q106",
+    "lang": "fa",
+    "question": "مساحت دشت لوت چقدر است؟",
+    "paraphrase": "دشت لوت چند کیلومتر مربع وسعت دارد؟"
+  },
+  {
+    "source_id": "q108",
+    "lang": "fa",
+    "question": "بیابان لوت چندمین بیابان بزرگ جهان است؟",
+    "paraphrase": "لوت در رتبهٔ چندم بزرگ‌ترین بیابان‌های جهان قرار دارد؟"
+  },
+  {
+    "source_id": "q110",
+    "lang": "fa",
+    "question": "معنی نام پاسارگاد چیست؟",
+    "paraphrase": "نام پاسارگاد به چه معنی است؟"
+  },
+  {
+    "source_id": "q113",
+    "lang": "fa",
+    "question": "چغازنبیل حدود چه زمانی ساخته شد؟",
+    "paraphrase": "زمان ساخت چغازنبیل تقریباً چه وقت بود؟"
+  }
+]
